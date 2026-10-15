@@ -1,0 +1,67 @@
+[
+ {
+  "id": "EG01",
+  "title": "Portfolio of competitive products and services",
+  "perspective": "Financial"
+ },
+ {
+  "id": "EG02",
+  "title": "Managed business risk",
+  "perspective": "Financial"
+ },
+ {
+  "id": "EG03",
+  "title": "Compliance with external laws and regulations",
+  "perspective": "Financial"
+ },
+ {
+  "id": "EG04",
+  "title": "Quality of financial information",
+  "perspective": "Financial"
+ },
+ {
+  "id": "EG05",
+  "title": "Customer-oriented service culture",
+  "perspective": "Customer"
+ },
+ {
+  "id": "EG06",
+  "title": "Business service continuity and availability",
+  "perspective": "Customer"
+ },
+ {
+  "id": "EG07",
+  "title": "Quality of management information",
+  "perspective": "Customer"
+ },
+ {
+  "id": "EG08",
+  "title": "Optimization of business process functionality",
+  "perspective": "Internal"
+ },
+ {
+  "id": "EG09",
+  "title": "Optimization of business process costs",
+  "perspective": "Internal"
+ },
+ {
+  "id": "EG10",
+  "title": "Staff skills, motivation and productivity",
+  "perspective": "Internal"
+ },
+ {
+  "id": "EG11",
+  "title": "Compliance with internal policies",
+  "perspective": "Internal"
+ },
+ {
+  "id": "EG12",
+  "title": "Managed digital transformation programs",
+  "perspective": "Learning & growth"
+ },
+ {
+  "id": "EG13",
+  "title": "Product and business innovation",
+  "perspective": "Learning & growth"
+ }
+]

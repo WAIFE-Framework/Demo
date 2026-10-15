@@ -1,0 +1,4062 @@
+[
+ {
+  "actionId": "G01",
+  "requirementId": "EUAIA-EU01",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C01",
+  "requirementId": "EUAIA-EU01",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C02",
+  "requirementId": "EUAIA-EU01",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "requirementId": "EUAIA-EU01",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P01",
+  "requirementId": "EUAIA-EU01",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M01",
+  "requirementId": "EUAIA-EU01",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M02",
+  "requirementId": "EUAIA-EU01",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M03",
+  "requirementId": "EUAIA-EU01",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M09",
+  "requirementId": "EUAIA-EU01",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V01",
+  "requirementId": "EUAIA-EU02",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "EUAIA-EU02",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R02",
+  "requirementId": "EUAIA-EU02",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "requirementId": "EUAIA-EU02",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "EUAIA-EU02",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R03",
+  "requirementId": "EUAIA-EU03",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "requirementId": "EUAIA-EU03",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M12",
+  "requirementId": "EUAIA-EU03",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "requirementId": "EUAIA-EU03",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU03",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V04",
+  "requirementId": "EUAIA-EU04",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M14",
+  "requirementId": "EUAIA-EU04",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M15",
+  "requirementId": "EUAIA-EU04",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R01",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R02",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R03",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R04",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M08",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M09",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M10",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "requirementId": "EUAIA-EU05",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "requirementId": "EUAIA-EU06",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "requirementId": "EUAIA-EU06",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "EUAIA-EU06",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "requirementId": "EUAIA-EU06",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU06",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "requirementId": "EUAIA-EU07",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "requirementId": "EUAIA-EU07",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "requirementId": "EUAIA-EU07",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "requirementId": "EUAIA-EU07",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU07",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "requirementId": "EUAIA-EU07",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M04",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M05",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M06",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M07",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M08",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M09",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M10",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M11",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M12",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M14",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M15",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M22",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M23",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M24",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M25",
+  "requirementId": "EUAIA-EU08",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M10",
+  "requirementId": "EUAIA-EU09",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU09",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M22",
+  "requirementId": "EUAIA-EU09",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "requirementId": "EUAIA-EU10",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU10",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D01",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D02",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D03",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D04",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D06",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A03",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R07",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M14",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M15",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "requirementId": "EUAIA-EU11",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "requirementId": "EUAIA-EU12",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "EUAIA-EU12",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V03",
+  "requirementId": "EUAIA-EU12",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V06",
+  "requirementId": "EUAIA-EU12",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "requirementId": "EUAIA-EU12",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "EUAIA-EU12",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A01",
+  "requirementId": "EUAIA-EU13",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "requirementId": "EUAIA-EU13",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "EUAIA-EU13",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M02",
+  "requirementId": "EUAIA-EU13",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "requirementId": "EUAIA-EU13",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "EUAIA-EU13",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V03",
+  "requirementId": "EUAIA-EU14",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V06",
+  "requirementId": "EUAIA-EU14",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M02",
+  "requirementId": "EUAIA-EU14",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "requirementId": "EUAIA-EU14",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D03",
+  "requirementId": "EUAIA-EU15",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D04",
+  "requirementId": "EUAIA-EU15",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D06",
+  "requirementId": "EUAIA-EU15",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P05",
+  "requirementId": "EUAIA-EU15",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "requirementId": "EUAIA-EU15",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "EUAIA-EU15",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D04",
+  "requirementId": "EUAIA-EU16",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P05",
+  "requirementId": "EUAIA-EU16",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "requirementId": "EUAIA-EU16",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "requirementId": "EUAIA-EU16",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU16",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "requirementId": "EUAIA-EU17",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "requirementId": "EUAIA-EU17",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R10",
+  "requirementId": "EUAIA-EU17",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU17",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "requirementId": "EUAIA-EU17",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M24",
+  "requirementId": "EUAIA-EU17",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M25",
+  "requirementId": "EUAIA-EU17",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "requirementId": "EUAIA-EU18",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R07",
+  "requirementId": "EUAIA-EU18",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R10",
+  "requirementId": "EUAIA-EU18",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "requirementId": "EUAIA-EU18",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M24",
+  "requirementId": "EUAIA-EU18",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G04",
+  "requirementId": "EUAIA-EU19",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C03",
+  "requirementId": "EUAIA-EU19",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A07",
+  "requirementId": "EUAIA-EU19",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P03",
+  "requirementId": "EUAIA-EU19",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R09",
+  "requirementId": "EUAIA-EU19",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M02",
+  "requirementId": "EUAIA-EU19",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M07",
+  "requirementId": "EUAIA-EU19",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU19",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C03",
+  "requirementId": "EUAIA-EU20",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A07",
+  "requirementId": "EUAIA-EU20",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P03",
+  "requirementId": "EUAIA-EU20",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R09",
+  "requirementId": "EUAIA-EU20",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "EUAIA-EU20",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "requirementId": "EUAIA-EU20",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "EUAIA-EU20",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G01",
+  "requirementId": "ISO38507-4.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G01",
+  "requirementId": "ISO42001-4.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G01",
+  "requirementId": "ISO42001-4.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G01",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G01",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G02",
+  "requirementId": "ISO38507-4.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G02",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G02",
+  "requirementId": "ISO42001-5.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G02",
+  "requirementId": "ISO42001-A.3.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G02",
+  "requirementId": "NIST-GOVERN-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G03",
+  "requirementId": "ISO38507-4.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G03",
+  "requirementId": "ISO42001-5.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G03",
+  "requirementId": "ISO42001-A.3.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G03",
+  "requirementId": "NIST-GOVERN-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G04",
+  "requirementId": "ISO38507-4.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G04",
+  "requirementId": "ISO42001-A.10.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G04",
+  "requirementId": "ISO42001-A.10.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G04",
+  "requirementId": "NIST-GOVERN-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G04",
+  "requirementId": "NIST-GOVERN-6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G05",
+  "requirementId": "ISO38507-4.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G05",
+  "requirementId": "ISO42001-5.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G05",
+  "requirementId": "ISO42001-7.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G05",
+  "requirementId": "NIST-GOVERN-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G05",
+  "requirementId": "NIST-GOVERN-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G06",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G06",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G06",
+  "requirementId": "ISO42001-9.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G06",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G06",
+  "requirementId": "NIST-GOVERN-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G07",
+  "requirementId": "ISO38507-4.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G07",
+  "requirementId": "ISO42001-4.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G07",
+  "requirementId": "ISO42001-5.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G07",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G07",
+  "requirementId": "NIST-GOVERN-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G08",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G08",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G08",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G08",
+  "requirementId": "NIST-MEASURE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C01",
+  "requirementId": "ISO38507-5.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C01",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C01",
+  "requirementId": "ISO42001-4.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C01",
+  "requirementId": "ISO42001-8.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C01",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C01",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C02",
+  "requirementId": "ISO38507-5.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C02",
+  "requirementId": "ISO42001-A.6.2.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C02",
+  "requirementId": "ISO42001-A.9.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C02",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C02",
+  "requirementId": "NIST-MAP-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C03",
+  "requirementId": "ISO38507-5.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C03",
+  "requirementId": "ISO42001-A.10.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C03",
+  "requirementId": "NIST-GOVERN-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C03",
+  "requirementId": "NIST-GOVERN-6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C03",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C04",
+  "requirementId": "ISO38507-5.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C04",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C04",
+  "requirementId": "ISO42001-8.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C04",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C04",
+  "requirementId": "NIST-MAP-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C05",
+  "requirementId": "ISO38507-5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C05",
+  "requirementId": "ISO38507-5.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C05",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C05",
+  "requirementId": "NIST-MAP-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C05",
+  "requirementId": "NIST-MAP-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "requirementId": "ISO38507-5.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "requirementId": "ISO42001-8.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "requirementId": "NIST-MAP-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "requirementId": "NIST-MANAGE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S01",
+  "requirementId": "ISO38507-5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S01",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S01",
+  "requirementId": "ISO42001-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S01",
+  "requirementId": "NIST-MAP-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S01",
+  "requirementId": "NIST-MANAGE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S02",
+  "requirementId": "ISO38507-5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S02",
+  "requirementId": "ISO38507-5.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S02",
+  "requirementId": "ISO42001-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S02",
+  "requirementId": "NIST-MAP-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S02",
+  "requirementId": "NIST-MEASURE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S03",
+  "requirementId": "ISO38507-5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S03",
+  "requirementId": "ISO38507-5.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S03",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S03",
+  "requirementId": "NIST-MAP-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S03",
+  "requirementId": "NIST-MANAGE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S04",
+  "requirementId": "ISO38507-5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S04",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S04",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S04",
+  "requirementId": "NIST-MEASURE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S04",
+  "requirementId": "NIST-MANAGE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S05",
+  "requirementId": "ISO38507-5.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S05",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S05",
+  "requirementId": "ISO42001-8.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S05",
+  "requirementId": "ISO42001-A.6.2.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S05",
+  "requirementId": "NIST-MANAGE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S05",
+  "requirementId": "NIST-MANAGE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D01",
+  "requirementId": "ISO38507-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D01",
+  "requirementId": "ISO42001-A.6.2.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D01",
+  "requirementId": "ISO42001-A.9.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D01",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D01",
+  "requirementId": "NIST-MAP-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D02",
+  "requirementId": "ISO38507-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D02",
+  "requirementId": "ISO42001-A.6.2.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D02",
+  "requirementId": "ISO42001-A.9.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D02",
+  "requirementId": "NIST-GOVERN-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D02",
+  "requirementId": "NIST-MAP-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D03",
+  "requirementId": "ISO38507-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D03",
+  "requirementId": "ISO42001-7.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D03",
+  "requirementId": "ISO42001-A.8.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D03",
+  "requirementId": "NIST-GOVERN-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D03",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D04",
+  "requirementId": "ISO38507-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D04",
+  "requirementId": "ISO42001-A.6.2.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D04",
+  "requirementId": "NIST-MAP-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D04",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "requirementId": "ISO38507-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "requirementId": "ISO42001-8.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "requirementId": "ISO42001-8.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "requirementId": "ISO42001-A.5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "requirementId": "ISO42001-A.6.2.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "requirementId": "NIST-MAP-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D06",
+  "requirementId": "ISO38507-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D06",
+  "requirementId": "ISO42001-A.9.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D06",
+  "requirementId": "NIST-GOVERN-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D06",
+  "requirementId": "NIST-MEASURE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "requirementId": "ISO38507-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "requirementId": "ISO42001-7.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "requirementId": "ISO42001-A.6.2.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "requirementId": "ISO42001-A.6.2.8",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "requirementId": "NIST-MEASURE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A01",
+  "requirementId": "ISO38507-6.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A01",
+  "requirementId": "ISO42001-A.4.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A01",
+  "requirementId": "ISO42001-A.7.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A01",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A01",
+  "requirementId": "NIST-MAP-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A02",
+  "requirementId": "ISO38507-6.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A02",
+  "requirementId": "ISO42001-A.3.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A02",
+  "requirementId": "ISO42001-A.7.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A02",
+  "requirementId": "NIST-GOVERN-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A03",
+  "requirementId": "ISO38507-6.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A03",
+  "requirementId": "ISO42001-A.7.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A03",
+  "requirementId": "ISO42001-A.7.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A03",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "requirementId": "ISO38507-6.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "requirementId": "ISO42001-8.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "requirementId": "ISO42001-A.5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "requirementId": "ISO42001-A.7.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "requirementId": "NIST-MAP-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A05",
+  "requirementId": "ISO38507-6.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A05",
+  "requirementId": "ISO42001-A.7.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A05",
+  "requirementId": "ISO42001-8.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A05",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A05",
+  "requirementId": "NIST-MAP-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A06",
+  "requirementId": "ISO38507-6.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A06",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A06",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A06",
+  "requirementId": "ISO42001-A.6.2.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A06",
+  "requirementId": "ISO42001-A.7.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A06",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A06",
+  "requirementId": "NIST-MEASURE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A07",
+  "requirementId": "ISO38507-6.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A07",
+  "requirementId": "ISO42001-A.10.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A07",
+  "requirementId": "ISO42001-A.10.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A07",
+  "requirementId": "NIST-GOVERN-6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V01",
+  "requirementId": "ISO38507-6.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V01",
+  "requirementId": "ISO42001-5.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V01",
+  "requirementId": "ISO42001-A.2.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V01",
+  "requirementId": "ISO42001-A.6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V01",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V01",
+  "requirementId": "NIST-GOVERN-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "ISO38507-6.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "ISO42001-6.1.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "ISO42001-8.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "ISO42001-A.5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "ISO42001-A.5.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "NIST-MAP-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "requirementId": "NIST-MAP-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V03",
+  "requirementId": "ISO38507-6.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V03",
+  "requirementId": "ISO42001-4.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V03",
+  "requirementId": "NIST-GOVERN-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V03",
+  "requirementId": "NIST-MAP-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V04",
+  "requirementId": "ISO38507-6.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V04",
+  "requirementId": "ISO42001-7.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V04",
+  "requirementId": "ISO42001-7.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V04",
+  "requirementId": "ISO42001-A.4.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V04",
+  "requirementId": "NIST-GOVERN-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V04",
+  "requirementId": "NIST-GOVERN-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V05",
+  "requirementId": "ISO38507-6.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V05",
+  "requirementId": "ISO42001-A.3.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V05",
+  "requirementId": "NIST-GOVERN-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V05",
+  "requirementId": "NIST-MEASURE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V06",
+  "requirementId": "ISO38507-6.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V06",
+  "requirementId": "ISO42001-8.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V06",
+  "requirementId": "ISO42001-A.5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V06",
+  "requirementId": "NIST-MAP-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V06",
+  "requirementId": "NIST-MAP-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P01",
+  "requirementId": "ISO38507-6.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P01",
+  "requirementId": "ISO42001-4.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P01",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P01",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P02",
+  "requirementId": "ISO38507-6.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P02",
+  "requirementId": "ISO42001-6.1.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P02",
+  "requirementId": "ISO42001-8.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P02",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P02",
+  "requirementId": "NIST-MANAGE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P03",
+  "requirementId": "ISO38507-6.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P03",
+  "requirementId": "ISO42001-A.10.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P03",
+  "requirementId": "ISO42001-A.10.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P03",
+  "requirementId": "NIST-GOVERN-6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P04",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P04",
+  "requirementId": "ISO38507-6.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P04",
+  "requirementId": "ISO42001-9.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P04",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P04",
+  "requirementId": "NIST-GOVERN-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P05",
+  "requirementId": "ISO38507-6.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P05",
+  "requirementId": "ISO42001-7.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P05",
+  "requirementId": "ISO42001-A.8.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P05",
+  "requirementId": "NIST-GOVERN-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P05",
+  "requirementId": "NIST-MEASURE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R01",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R01",
+  "requirementId": "ISO42001-6.1.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R01",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R01",
+  "requirementId": "ISO42001-8.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R01",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R01",
+  "requirementId": "NIST-MAP-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R02",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R02",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R02",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R02",
+  "requirementId": "NIST-MANAGE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R03",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R03",
+  "requirementId": "ISO42001-8.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R03",
+  "requirementId": "ISO42001-8.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R03",
+  "requirementId": "NIST-MAP-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R03",
+  "requirementId": "NIST-MEASURE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R04",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R04",
+  "requirementId": "ISO42001-A.6.2.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R04",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "requirementId": "ISO42001-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "requirementId": "NIST-MEASURE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "requirementId": "NIST-MEASURE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "requirementId": "ISO42001-A.6.2.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "requirementId": "NIST-MEASURE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R07",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R07",
+  "requirementId": "ISO42001-8.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R07",
+  "requirementId": "ISO42001-A.6.2.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R07",
+  "requirementId": "NIST-MANAGE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R07",
+  "requirementId": "NIST-MANAGE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "requirementId": "ISO42001-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "requirementId": "ISO42001-7.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "requirementId": "ISO42001-A.6.2.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "requirementId": "NIST-MEASURE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R09",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R09",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R09",
+  "requirementId": "ISO42001-A.10.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R09",
+  "requirementId": "NIST-GOVERN-6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R09",
+  "requirementId": "NIST-MANAGE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R10",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R10",
+  "requirementId": "ISO42001-10.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R10",
+  "requirementId": "NIST-MANAGE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R10",
+  "requirementId": "NIST-MANAGE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R11",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R11",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R11",
+  "requirementId": "ISO42001-9.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R11",
+  "requirementId": "NIST-GOVERN-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R11",
+  "requirementId": "NIST-MANAGE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "requirementId": "ISO42001-4.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "requirementId": "ISO42001-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "requirementId": "ISO42001-10.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "requirementId": "ISO42001-A.2.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "requirementId": "NIST-MANAGE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M01",
+  "requirementId": "ISO42001-4.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M01",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M01",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M02",
+  "requirementId": "ISO42001-4.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M02",
+  "requirementId": "NIST-GOVERN-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M02",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M03",
+  "requirementId": "ISO42001-4.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M03",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M03",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M04",
+  "requirementId": "ISO42001-4.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M04",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M05",
+  "requirementId": "ISO42001-5.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M05",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M05",
+  "requirementId": "NIST-GOVERN-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M06",
+  "requirementId": "ISO42001-5.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M06",
+  "requirementId": "ISO42001-A.2.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M06",
+  "requirementId": "ISO42001-A.2.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M06",
+  "requirementId": "ISO42001-A.2.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M06",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M07",
+  "requirementId": "ISO42001-5.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M07",
+  "requirementId": "ISO42001-A.3.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M07",
+  "requirementId": "NIST-GOVERN-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M08",
+  "requirementId": "ISO42001-6.1.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M08",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M08",
+  "requirementId": "NIST-MANAGE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M09",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M09",
+  "requirementId": "ISO42001-8.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M09",
+  "requirementId": "NIST-MAP-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M09",
+  "requirementId": "NIST-MEASURE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M10",
+  "requirementId": "ISO42001-6.1.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M10",
+  "requirementId": "ISO42001-8.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M10",
+  "requirementId": "NIST-MANAGE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M10",
+  "requirementId": "NIST-MANAGE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M11",
+  "requirementId": "ISO42001-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M11",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M11",
+  "requirementId": "NIST-MANAGE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M12",
+  "requirementId": "ISO42001-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M12",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M12",
+  "requirementId": "NIST-MANAGE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "ISO42001-7.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "ISO42001-A.4.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "ISO42001-A.4.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "ISO42001-A.4.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "ISO42001-A.4.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "ISO42001-A.4.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "NIST-GOVERN-6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M14",
+  "requirementId": "ISO42001-7.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M14",
+  "requirementId": "ISO42001-A.4.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M14",
+  "requirementId": "NIST-GOVERN-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M15",
+  "requirementId": "ISO42001-7.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M15",
+  "requirementId": "NIST-GOVERN-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "requirementId": "ISO42001-7.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "requirementId": "NIST-GOVERN-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "requirementId": "NIST-MEASURE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "requirementId": "ISO42001-7.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "ISO42001-8.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "NIST-MANAGE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "requirementId": "NIST-MANAGE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "requirementId": "ISO42001-6.1.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "requirementId": "ISO42001-A.5.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "requirementId": "NIST-MAP-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "requirementId": "NIST-MAP-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "ISO42001-8.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "ISO42001-A.5.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "ISO42001-A.5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "ISO42001-A.5.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "NIST-MAP-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "NIST-MAP-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "requirementId": "NIST-MEASURE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "requirementId": "NIST-MEASURE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M22",
+  "requirementId": "ISO42001-9.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M22",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M22",
+  "requirementId": "NIST-GOVERN-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M23",
+  "requirementId": "ISO42001-9.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M23",
+  "requirementId": "NIST-GOVERN-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M23",
+  "requirementId": "NIST-MANAGE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M24",
+  "requirementId": "ISO42001-10.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M24",
+  "requirementId": "NIST-MANAGE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M24",
+  "requirementId": "NIST-MANAGE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M25",
+  "requirementId": "ISO42001-10.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M25",
+  "requirementId": "NIST-MEASURE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M25",
+  "requirementId": "NIST-MANAGE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M26",
+  "requirementId": "ISO42001-6.1.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M26",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M26",
+  "requirementId": "NIST-MANAGE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "requirementId": "ISO38507-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "requirementId": "ISO42001-4.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "requirementId": "ISO42001-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "requirementId": "NIST-GOVERN-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "requirementId": "NIST-MAP-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "requirementId": "NIST-MANAGE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N02",
+  "requirementId": "ISO38507-6.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N02",
+  "requirementId": "ISO42001-7.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N02",
+  "requirementId": "ISO42001-A.4.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N02",
+  "requirementId": "NIST-GOVERN-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N02",
+  "requirementId": "NIST-GOVERN-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N03",
+  "requirementId": "ISO38507-5.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N03",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N03",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N03",
+  "requirementId": "ISO42001-A.6.2.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N03",
+  "requirementId": "NIST-MAP-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N03",
+  "requirementId": "NIST-MAP-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N03",
+  "requirementId": "NIST-MAP-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N04",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N04",
+  "requirementId": "ISO42001-6.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N04",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N04",
+  "requirementId": "NIST-MEASURE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N05",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N05",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N05",
+  "requirementId": "ISO42001-A.6.2.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N05",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N06",
+  "requirementId": "ISO38507-5.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N06",
+  "requirementId": "ISO38507-6.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N06",
+  "requirementId": "ISO42001-7.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N06",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N06",
+  "requirementId": "NIST-MEASURE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N06",
+  "requirementId": "NIST-MEASURE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "requirementId": "ISO38507-6.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "requirementId": "ISO38507-6.6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "requirementId": "ISO42001-4.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "requirementId": "ISO42001-7.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "requirementId": "ISO42001-9.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "requirementId": "ISO42001-10.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "requirementId": "NIST-GOVERN-5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "requirementId": "NIST-MEASURE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "requirementId": "NIST-MANAGE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N08",
+  "requirementId": "ISO38507-5.4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N08",
+  "requirementId": "ISO38507-5.5",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N08",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N08",
+  "requirementId": "ISO42001-6.1.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N08",
+  "requirementId": "ISO42001-8.2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N08",
+  "requirementId": "NIST-MAP-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N08",
+  "requirementId": "NIST-MANAGE-1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N09",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N09",
+  "requirementId": "ISO42001-6.1.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N09",
+  "requirementId": "ISO42001-8.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N09",
+  "requirementId": "NIST-MANAGE-2",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N09",
+  "requirementId": "NIST-MANAGE-4",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N10",
+  "requirementId": "ISO38507-5.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N10",
+  "requirementId": "ISO38507-6.7",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N10",
+  "requirementId": "ISO42001-8.1",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N10",
+  "requirementId": "ISO42001-A.10.3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N10",
+  "requirementId": "NIST-GOVERN-6",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N10",
+  "requirementId": "NIST-MANAGE-3",
+  "strength": "toAssess",
+  "source": "imported",
+  "validated": false
+ }
+]

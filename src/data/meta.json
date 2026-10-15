@@ -1,0 +1,19 @@
+{
+ "version": "0.1-prototype",
+ "generated": "2026-10-15",
+ "sourceWorkbook": "ISO_Thesis_42001-38507-NIST-RM.xlsx",
+ "notes": [
+  "Prototype data: the 92 actions, mappings and dependencies come from the thesis workbook as they stand; none are expert-validated.",
+  "Effort values are a placeholder heuristic (structure, number of prerequisites, cross-functional owner), NOT expert ratings.",
+  "Link strengths are all 'to assess'; EU role/risk applicability is a first draft to be verified by a legal expert.",
+  "English texts are machine-translated drafts of the Dutch workbook text."
+ ],
+ "counts": {
+  "actions": 92,
+  "requirements": 137,
+  "links": 580,
+  "goalLinks": 266,
+  "dependencies": 181,
+  "reviewItems": 31
+ }
+}

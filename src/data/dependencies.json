@@ -1,0 +1,1269 @@
+[
+ {
+  "from": "G01",
+  "to": "G02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G02",
+  "to": "G03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C01",
+  "to": "G03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G02",
+  "to": "G04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C03",
+  "to": "G04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G02",
+  "to": "G06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G08",
+  "to": "G06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G02",
+  "to": "G07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G01",
+  "to": "G08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C01",
+  "to": "G08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R02",
+  "to": "G08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G01",
+  "to": "C01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C01",
+  "to": "C02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C01",
+  "to": "C03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "C04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "C05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "C06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R02",
+  "to": "C06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "V01",
+  "to": "S01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C05",
+  "to": "S01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "S02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C05",
+  "to": "S02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "S02",
+  "to": "S03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "S02",
+  "to": "S04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R05",
+  "to": "S04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R02",
+  "to": "S05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "S05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "D01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "D01",
+  "to": "D02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R02",
+  "to": "D02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "D02",
+  "to": "D03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "D04",
+  "to": "D03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "D04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "D04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "D05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A03",
+  "to": "D05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "D01",
+  "to": "D06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "D02",
+  "to": "D06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "D01",
+  "to": "D07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A01",
+  "to": "D07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R08",
+  "to": "D07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "A01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A01",
+  "to": "A02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G02",
+  "to": "A02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A01",
+  "to": "A03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "A03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A01",
+  "to": "A04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A02",
+  "to": "A05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A04",
+  "to": "A05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A03",
+  "to": "A06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R05",
+  "to": "A06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C03",
+  "to": "A07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A04",
+  "to": "A07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G02",
+  "to": "V01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "V02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "V02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "V03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G05",
+  "to": "V04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G03",
+  "to": "V04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G02",
+  "to": "V05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "V06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C01",
+  "to": "P01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "P01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "P01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "P01",
+  "to": "P02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G03",
+  "to": "P02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C03",
+  "to": "P03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A04",
+  "to": "P03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "P04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "P02",
+  "to": "P04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "D04",
+  "to": "P05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "P01",
+  "to": "P05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M01",
+  "to": "R01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C01",
+  "to": "R01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "V01",
+  "to": "R02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "R03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "R03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M09",
+  "to": "R03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "D01",
+  "to": "R04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A03",
+  "to": "R04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R02",
+  "to": "R05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "S02",
+  "to": "R05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R05",
+  "to": "R06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "D07",
+  "to": "R06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "A06",
+  "to": "R06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "R07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G02",
+  "to": "R07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C01",
+  "to": "R08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G03",
+  "to": "R08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C03",
+  "to": "R09",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "P03",
+  "to": "R09",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G02",
+  "to": "R10",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R05",
+  "to": "R10",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G06",
+  "to": "R11",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G08",
+  "to": "R11",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "S04",
+  "to": "R11",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R06",
+  "to": "R11",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R11",
+  "to": "R12",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M23",
+  "to": "R12",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M01",
+  "to": "M02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M01",
+  "to": "M03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M02",
+  "to": "M03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G01",
+  "to": "M03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M03",
+  "to": "M04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M05",
+  "to": "M04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M01",
+  "to": "M05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M02",
+  "to": "M06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "V01",
+  "to": "M06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M05",
+  "to": "M06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M03",
+  "to": "M07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M05",
+  "to": "M07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "G02",
+  "to": "M07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M01",
+  "to": "M08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M02",
+  "to": "M08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R01",
+  "to": "M08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R02",
+  "to": "M09",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "M09",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M09",
+  "to": "M10",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R03",
+  "to": "M10",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M06",
+  "to": "M11",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M08",
+  "to": "M11",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M04",
+  "to": "M12",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M07",
+  "to": "M12",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M03",
+  "to": "M13",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M11",
+  "to": "M13",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M07",
+  "to": "M14",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M13",
+  "to": "M14",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M06",
+  "to": "M15",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M14",
+  "to": "M15",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M02",
+  "to": "M16",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M06",
+  "to": "M16",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M04",
+  "to": "M17",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M04",
+  "to": "M18",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M07",
+  "to": "M18",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M17",
+  "to": "M18",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M02",
+  "to": "M19",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "M19",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "V02",
+  "to": "M19",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M19",
+  "to": "M20",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "M20",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "V03",
+  "to": "M20",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M11",
+  "to": "M21",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R05",
+  "to": "M21",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M04",
+  "to": "M22",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M17",
+  "to": "M22",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M21",
+  "to": "M22",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M21",
+  "to": "M23",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M22",
+  "to": "M23",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M24",
+  "to": "M23",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M17",
+  "to": "M24",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R10",
+  "to": "M24",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M21",
+  "to": "M25",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M23",
+  "to": "M25",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M24",
+  "to": "M25",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M09",
+  "to": "M26",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M10",
+  "to": "M26",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C01",
+  "to": "N01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "N01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R02",
+  "to": "N01",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M07",
+  "to": "N02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "V03",
+  "to": "N02",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C02",
+  "to": "N03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C06",
+  "to": "N03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "V02",
+  "to": "N03",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R05",
+  "to": "N04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "N03",
+  "to": "N04",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R04",
+  "to": "N05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "N04",
+  "to": "N05",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "N04",
+  "to": "N06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "N05",
+  "to": "N06",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "V03",
+  "to": "N07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "V05",
+  "to": "N07",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "S03",
+  "to": "N08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R03",
+  "to": "N08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "S02",
+  "to": "N08",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "M10",
+  "to": "N09",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R03",
+  "to": "N09",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R02",
+  "to": "N09",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "C03",
+  "to": "N10",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "P03",
+  "to": "N10",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "from": "R09",
+  "to": "N10",
+  "type": "hard",
+  "source": "imported",
+  "validated": false
+ }
+]

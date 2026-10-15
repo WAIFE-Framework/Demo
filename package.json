@@ -1,0 +1,16 @@
+{
+  "name": "ai-governance-roadmap",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Interactive AI governance roadmap (strategic/managerial lens). No runtime dependencies.",
+  "scripts": {
+    "build": "tsc && node scripts/prepare_site.mjs",
+    "test": "npm run build && node --test tests/*.test.mjs",
+    "data": "python3 scripts/build_data.py",
+    "serve": "node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}

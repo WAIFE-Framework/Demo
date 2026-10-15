@@ -1,0 +1,1864 @@
+[
+ {
+  "actionId": "G01",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G01",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G01",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G02",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G02",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G02",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G03",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G03",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G04",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G04",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G04",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G05",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G05",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G06",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G06",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G06",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G07",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G07",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G07",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G08",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G08",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "G08",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C01",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C01",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C01",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C02",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C02",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C02",
+  "goalId": "EG13",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C03",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C03",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C03",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C04",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C04",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C04",
+  "goalId": "EG13",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C05",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C05",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C05",
+  "goalId": "EG13",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "C06",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S01",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S01",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S01",
+  "goalId": "EG13",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S02",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S02",
+  "goalId": "EG04",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S02",
+  "goalId": "EG09",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S03",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S03",
+  "goalId": "EG09",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S03",
+  "goalId": "EG13",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S04",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S04",
+  "goalId": "EG04",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S04",
+  "goalId": "EG09",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S05",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S05",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "S05",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D01",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D01",
+  "goalId": "EG08",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D01",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D02",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D02",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D02",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D03",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D03",
+  "goalId": "EG08",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D03",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D04",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D04",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D04",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D05",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D06",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D06",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D06",
+  "goalId": "EG08",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "D07",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A01",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A01",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A01",
+  "goalId": "EG08",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A02",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A02",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A02",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A03",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A03",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A03",
+  "goalId": "EG08",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A04",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A05",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A05",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A05",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A06",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A06",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A06",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A07",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A07",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "A07",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V01",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V01",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V01",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V02",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V03",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V03",
+  "goalId": "EG13",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V04",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V04",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V05",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V05",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V05",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V06",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V06",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "V06",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P01",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P01",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P02",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P02",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P03",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P03",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P03",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P04",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P04",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P04",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P05",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P05",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "P05",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R01",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R01",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R02",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R02",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R03",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R03",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R03",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R04",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R04",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R04",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R05",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R06",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R07",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R07",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R07",
+  "goalId": "EG08",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R08",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R09",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R09",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R09",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R10",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R10",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R10",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R11",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R11",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R11",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "R12",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M01",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M01",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M01",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M02",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M02",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M02",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M03",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M03",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M03",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M04",
+  "goalId": "EG08",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M04",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M04",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M05",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M05",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M05",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M06",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M06",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M06",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M07",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M07",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M07",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M08",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M08",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M08",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M09",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M09",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M09",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M10",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M10",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M10",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M11",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M11",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M11",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M12",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M12",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M12",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "goalId": "EG04",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "goalId": "EG09",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M13",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M14",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M14",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M15",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M15",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M15",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M16",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M17",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "goalId": "EG08",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M18",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M19",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M20",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M21",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M22",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M22",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M22",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M23",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M23",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M23",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M24",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M24",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M24",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M25",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M25",
+  "goalId": "EG08",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M25",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M26",
+  "goalId": "EG03",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "M26",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N01",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N02",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N02",
+  "goalId": "EG10",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N02",
+  "goalId": "EG13",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N03",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N03",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N03",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N04",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N04",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N04",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N05",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N05",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N05",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N06",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N06",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N06",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "goalId": "EG05",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "goalId": "EG07",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N07",
+  "goalId": "EG13",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N08",
+  "goalId": "EG01",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N08",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N08",
+  "goalId": "EG09",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N09",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N09",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N09",
+  "goalId": "EG11",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N10",
+  "goalId": "EG02",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N10",
+  "goalId": "EG06",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ },
+ {
+  "actionId": "N10",
+  "goalId": "EG12",
+  "strength": 1,
+  "source": "imported",
+  "validated": false
+ }
+]

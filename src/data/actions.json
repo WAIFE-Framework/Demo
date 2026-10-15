@@ -1,0 +1,3064 @@
+[
+ {
+  "id": "G01",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Formally determine which development, procurement, use and phase-out of AI falls under board oversight.",
+  "titleNl": "Bepaal formeel welke ontwikkeling, inkoop, toepassing en uitfasering van AI onder bestuurlijk toezicht valt.",
+  "evidence": "Approved scope and demarcation",
+  "evidenceNl": "Goedgekeurde scope en afbakening",
+  "level": "Strategic",
+  "mechanism": "Structure",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "Bestuursmandaat",
+   "criteria voor AI-gebruik en organisatorische grenzen",
+   "input van business, IT, inkoop en juridisch"
+  ],
+  "euArticlesNl": "Art. 2, 3 en 6 — toepassingsgebied, operatorrol en classificatie; art. 5/50/51 als mogelijke vervolgroute",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO 37000:2021"
+  ],
+  "mechanismsNl": {
+   "policy": "Neem in het AI-governancebeleid scopecriteria op voor ontwikkeling, inkoop, gebruik en uitfasering.",
+   "process": "Voer bij intake en jaarlijks een scopetoets uit; registreer inclusie, uitsluiting en motivering.",
+   "technical": "Gebruik het AI-register met verplichte scopevelden en signalering bij ontbrekende classificatie.",
+   "structural": "Laat het bestuursorgaan de scope vaststellen; AI-governance beheert de afbakening.",
+   "relational": "Stem de scope af met business, IT, inkoop, risico, compliance en audit."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "G02",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Establish mandate, decision rights and escalation lines for AI.",
+  "titleNl": "Leg mandaat, besluitrechten en escalatielijnen voor AI vast.",
+  "evidence": "Governance charter and decision matrix",
+  "evidenceNl": "Governancecharter en beslissingsmatrix",
+  "level": "Strategic",
+  "mechanism": "Structure",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "bestaande bestuurs- en directiemandaten",
+   "overleg met juridische en controlefuncties"
+  ],
+  "euArticlesNl": "Art. 16, 17 en 26 — verantwoordelijkheden van provider/deployer en governance binnen het kwaliteitsmanagementsysteem",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO 37000:2021"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg mandaten, besluitrechten, delegatiegrenzen en escalatiecriteria vast in een governancecharter.",
+   "process": "Gebruik per besluit een vaste goedkeuringsroute en escalatiepad met termijnen.",
+   "technical": "Configureer workflowgoedkeuringen en een digitaal besluiten- en escalatielog.",
+   "structural": "Richt een AI-stuurgroep in met duidelijke RACI en aansluiting op bestaande comités.",
+   "relational": "Spreek overdrachten en consultatie tussen bestuur, directie, controlefuncties en teams af."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "G03",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Assign a demonstrably accountable owner to every AI application.",
+  "titleNl": "Wijs voor iedere AI-toepassing een aantoonbaar verantwoordelijke eigenaar aan.",
+  "evidence": "AI register with owner",
+  "evidenceNl": "AI-register met eigenaar",
+  "level": "Managerial",
+  "mechanism": "Structure",
+  "owner": "Executive management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "vastgelegde criteria voor eigenaarschap per toepassing"
+  ],
+  "euArticlesNl": "Art. 16(a), 17 en 26 — aantoonbare verantwoordelijkheid voor naleving, gebruik en toezicht",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO 37000:2021"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht voor elke AI-toepassing één eindverantwoordelijke business owner.",
+   "process": "Wijs de eigenaar aan vóór goedkeuring en herbevestig bij elke materiële wijziging.",
+   "technical": "Maak eigenaar, mandaat en vervanger verplichte velden in het AI-register.",
+   "structural": "Beleg eigenaarschap in functiebeschrijvingen en prestatieafspraken.",
+   "relational": "Laat eigenaar, model owner, data owner en controlefuncties periodiek samen reviewen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "G04",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Ensure accountability is not transferred to an AI system or a supplier.",
+  "titleNl": "Borg dat verantwoordelijkheid niet aan een AI-systeem of leverancier wordt overgedragen.",
+  "evidence": "RACI and contractual responsibilities",
+  "evidenceNl": "RACI en contractuele verantwoordelijkheden",
+  "level": "Strategic",
+  "mechanism": "Structure",
+  "owner": "Executive management / Legal",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "juridische rolverdeling en leveringscontracten"
+  ],
+  "euArticlesNl": "Art. 16, 25 en 26 — verantwoordelijkheid blijft bij de toepasselijke operator; schriftelijke taakverdeling in de waardeketen",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO 37301:2021"
+  ],
+  "mechanismsNl": {
+   "policy": "Bepaal dat menselijke en organisatorische verantwoordelijkheid nooit wordt overgedragen aan AI of leverancier.",
+   "process": "Toets RACI en contracten bij inkoop, wijziging en verlenging op blijvende interne accountability.",
+   "technical": "Leg beslissingen, overrides en goedkeuringen vast met identificeerbare menselijke verantwoordelijken.",
+   "structural": "Wijs interne accountable owners aan, ook voor uitbestede modellen en diensten.",
+   "relational": "Maak verantwoordelijkheden expliciet in leveranciersoverleg en communiceer ze aan gebruikers."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "G05",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Ensure the governing body has sufficient knowledge of the opportunities, limitations and consequences of AI.",
+  "titleNl": "Zorg dat het bestuursorgaan voldoende kennis heeft van kansen, beperkingen en gevolgen van AI.",
+  "evidence": "Training plan and evaluations",
+  "evidenceNl": "Opleidingsplan en evaluaties",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "Beschikbare AI-expertise",
+   "opleidingsbudget",
+   "inzicht in de eigen AI-portefeuille en risico’s"
+  ],
+  "euArticlesNl": "Art. 4 en 26 — AI-geletterdheid en bekwaam menselijk toezicht bij de deployer",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO 37000:2021"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel minimale AI-competenties en periodieke bijscholing voor bestuurders verplicht.",
+   "process": "Voer een jaarlijkse kennisbehoefteanalyse, opleiding en effectevaluatie uit.",
+   "technical": "Gebruik een LMS en competentiedashboard voor deelname, toetsresultaten en vervaldatums.",
+   "structural": "Benoem een opleidingsverantwoordelijke en plan vaste kennissessies in de bestuurscyclus.",
+   "relational": "Combineer interne expertise met onafhankelijke deskundigen en praktijkdialogen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "G06",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Plan periodic evaluation, direction and monitoring of AI use.",
+  "titleNl": "Plan periodieke evaluatie, sturing en monitoring van AI-gebruik.",
+  "evidence": "Annual agenda and board reporting",
+  "evidenceNl": "Jaaragenda en bestuursrapportage",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "periodieke rapportagegegevens en vastgelegde overlegfrequentie"
+  ],
+  "euArticlesNl": "Art. 9, 17, 26 en 72 — periodieke risicobeoordeling, managementreview en post-marketmonitoring",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO 37000:2021"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg frequentie, onderwerpen en besluitvereisten voor evalueren, richten en monitoren vast.",
+   "process": "Plan kwartaalreviews en een jaarlijkse integrale evaluatie met besluiten en opvolgacties.",
+   "technical": "Automatiseer bestuursrapportage vanuit AI-register, risico-, incident- en prestatiegegevens.",
+   "structural": "Veranker AI als vast agendapunt van bestuur, risico- en auditcomité.",
+   "relational": "Organiseer voorafgaande afstemming met owners en terugkoppeling naar betrokken teams."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "G07",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Integrate AI into existing IT, data, risk, compliance and audit governance.",
+  "titleNl": "Integreer AI in bestaande IT-, data-, risico-, compliance- en auditgovernance.",
+  "evidence": "Adapted frameworks and committee mandates",
+  "evidenceNl": "Aangepaste kaders en comitémandaten",
+  "level": "Managerial",
+  "mechanism": "Structure",
+  "owner": "Executive management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "bestaande IT-, data-, risico- en auditstructuren",
+   "afspraken met proceseigenaren"
+  ],
+  "euArticlesNl": "Art. 17 en 26 — integratie in kwaliteits-, risico-, compliance-, log- en toezichtprocessen",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO/IEC TR 38502:2017"
+  ],
+  "mechanismsNl": {
+   "policy": "Integreer AI-eisen in IT-, data-, risico-, compliance-, inkoop- en auditbeleid.",
+   "process": "Voeg AI-controles toe aan bestaande intake-, change-, risk-, procurement- en auditprocessen.",
+   "technical": "Koppel AI-register, GRC, CMDB, data catalogus en leveranciersregister via vaste sleutels.",
+   "structural": "Breid bestaande comitémandaten en control ownership uit in plaats van parallelle structuren.",
+   "relational": "Laat domeineigenaren gezamenlijke reviews uitvoeren en conflicten via één route oplossen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "G08",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Define which information and KPIs are needed for effective board oversight.",
+  "titleNl": "Leg vast welke informatie en KPI's nodig zijn voor effectief bestuurlijk toezicht.",
+  "evidence": "KPI set and reporting template",
+  "evidenceNl": "KPI-set en rapportagesjabloon",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "informatiebehoefte van het bestuursorgaan en meetbare definities"
+  ],
+  "euArticlesNl": "Art. 9, 15, 17 en 72 — indicatoren voor risico, prestaties, robuustheid en post-marketmonitoring",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO 37000:2021"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer verplichte KPI's, KRI's, rapportagefrequentie, datakwaliteit en escalatiedrempels.",
+   "process": "Verzamel, valideer en bespreek indicatoren volgens een vaste rapportagekalender.",
+   "technical": "Bouw een dashboard met bronkoppelingen, trends, drempelalerts en drill-down naar toepassingen.",
+   "structural": "Wijs per indicator een data-eigenaar en actie-eigenaar aan; bestuur keurt de set goed.",
+   "relational": "Bespreek betekenis en acties met business, techniek, risico en belanghebbenden."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "C01",
+  "domain": "Context, portfolio & ecosystem",
+  "domainNl": "Context, portfolio & ecosysteem",
+  "title": "Maintain a central register of current, planned and third-party-supplied AI applications.",
+  "titleNl": "Onderhoud een centraal register van huidige, geplande en door derden geleverde AI-toepassingen.",
+  "evidence": "Up-to-date AI register",
+  "evidenceNl": "Actueel AI-register",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "AI governance function",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "inventarisatiekanalen voor inkoop, ontwikkeling en gebruik",
+   "registerhouder en bijwerkproces"
+  ],
+  "euArticlesNl": "Art. 6, 49 en 71 — classificatie en registratie van relevante high-risk- en GPAI-systemen; ondersteunt art. 17",
+  "otherIso": [
+   "ISO/IEC 22989:2022",
+   "ISO/IEC TR 24030"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht registratie van alle eigen, ingekochte en embedded AI vóór gebruik.",
+   "process": "Gebruik intake, periodieke attestatie en reconciliatie met inkoop- en IT-registers.",
+   "technical": "Richt een centraal AI-register in met unieke ID, status, eigenaar en levenscyclusgegevens.",
+   "structural": "Benoem registerbeheerder en lokale contactpersonen per domein.",
+   "relational": "Laat inkoop, architectuur, privacy, security en business ontbrekende toepassingen melden."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "C02",
+  "domain": "Context, portfolio & ecosystem",
+  "domainNl": "Context, portfolio & ecosysteem",
+  "title": "Describe purpose, users, parties, lifecycle stage and intended value per application.",
+  "titleNl": "Beschrijf per toepassing doel, gebruikers, partijen, levenscyclusfase en beoogde waarde.",
+  "evidence": "Use-case sheet",
+  "evidenceNl": "Use-casefiche",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Business owner",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "input van business owner, gebruikers en leverancier over doel, levenscyclus en baten"
+  ],
+  "euArticlesNl": "Art. 9, 11, 13 en bijlage IV — beoogd doel, gebruikers, context, levenscyclus en technische documentatie",
+  "otherIso": [
+   "ISO/IEC 22989:2022",
+   "ISO/IEC TR 24030"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel een minimale use-casefiche verplicht met doel, gebruikers, partijen, fase en waarde.",
+   "process": "Vul de fiche bij intake in en actualiseer bij faseovergang of contextwijziging.",
+   "technical": "Gebruik een digitaal sjabloon gekoppeld aan AI-register, businesscase en risicodossier.",
+   "structural": "Business owner tekent af; AI-governance voert kwaliteitscontrole uit.",
+   "relational": "Valideer de beschrijving met gebruikers, leveranciers, data owners en getroffen groepen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "C03",
+  "domain": "Context, portfolio & ecosystem",
+  "domainNl": "Context, portfolio & ecosysteem",
+  "title": "Map suppliers, data providers, customers and other dependencies in the AI ecosystem.",
+  "titleNl": "Breng leveranciers, data-aanbieders, afnemers en andere afhankelijkheden in het AI-ecosysteem in kaart.",
+  "evidence": "Ecosystem and supply-chain map",
+  "evidenceNl": "Ecosysteem- en ketenkaart",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Architecture / Procurement",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "contract- en architectuurgegevens",
+   "betrokkenheid van inkoop en leveranciers"
+  ],
+  "euArticlesNl": "Art. 25, 26 en 28 — rol- en informatieverdeling in de AI-waardeketen en verplichtingen van operatoren",
+  "otherIso": [
+   "ISO/IEC 22989:2022",
+   "ISO/IEC TR 24030"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht transparantie over kritieke ketenpartijen, data- en modelafhankelijkheden.",
+   "process": "Maak bij intake een ketenanalyse en herzie die bij leveranciers- of architectuurwijzigingen.",
+   "technical": "Onderhoud een afhankelijkhedengrafiek gekoppeld aan contracten, datasets, API's en modellen.",
+   "structural": "Wijs ketenrisico-eigenaars aan en borg vervanging en exit in sourcing governance.",
+   "relational": "Voer periodieke ketenreviews met leveranciers, data-aanbieders, afnemers en controlfuncties."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "C04",
+  "domain": "Context, portfolio & ecosystem",
+  "domainNl": "Context, portfolio & ecosysteem",
+  "title": "Assess AI-specific characteristics such as autonomy, probabilistic outputs, scale, changeability and explainability.",
+  "titleNl": "Beoordeel AI-specifieke kenmerken zoals autonomie, probabilistische uitkomsten, schaal, veranderlijkheid en uitlegbaarheid.",
+  "evidence": "AI impact analysis",
+  "evidenceNl": "AI-impactanalyse",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "AI governance function",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "technische systeeminformatie, gebruikscontext en expertise voor beoordeling"
+  ],
+  "euArticlesNl": "Art. 6, 9, 13 en 15 — classificatie en beoordeling van autonomie, beperkingen, robuustheid en uitlegbaarheid",
+  "otherIso": [
+   "ISO/IEC 22989:2022",
+   "ISO/IEC TR 24028"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer beoordelingscriteria voor autonomie, onzekerheid, schaal, adaptiviteit en uitlegbaarheid.",
+   "process": "Voer een AI-impactanalyse uit vóór goedkeuring en opnieuw bij materiële verandering.",
+   "technical": "Gebruik een gestandaardiseerde vragenlijst met score, bewijsbijlagen en automatische risicoklasse.",
+   "structural": "Laat AI-governance beoordelen en specialistische functies onafhankelijk challengen.",
+   "relational": "Bespreek aannames met ontwikkelaars, gebruikers, domeinexperts en getroffen stakeholders."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "C05",
+  "domain": "Context, portfolio & ecosystem",
+  "domainNl": "Context, portfolio & ecosysteem",
+  "title": "Document expected benefits as well as technical, organisational and societal limitations.",
+  "titleNl": "Documenteer verwachte voordelen én technische, organisatorische en maatschappelijke beperkingen.",
+  "evidence": "Business case with limitations",
+  "evidenceNl": "Businesscase met beperkingen",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Business owner",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "businesscase, technische beperkingen, impactinformatie en stakeholderinput"
+  ],
+  "euArticlesNl": "Art. 9, 13 en 15 — bekende risico’s, beperkingen, prestaties en redelijk voorzienbaar misbruik documenteren",
+  "otherIso": [
+   "ISO/IEC TR 24028",
+   "ISO/IEC TR 24030"
+  ],
+  "mechanismsNl": {
+   "policy": "Eis een evenwichtige businesscase met baten, beperkingen, neveneffecten en onzekerheden.",
+   "process": "Toets aannames vooraf en vergelijk realisatie en beperkingen periodiek na ingebruikname.",
+   "technical": "Registreer baten, kosten, beperkingen en meetpunten in portfolio- en monitoringtools.",
+   "structural": "Laat business owner leveren; Finance, Risk en Compliance valideren.",
+   "relational": "Betrek eindgebruikers en getroffen groepen bij het identificeren van beperkingen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "C06",
+  "domain": "Context, portfolio & ecosystem",
+  "domainNl": "Context, portfolio & ecosysteem",
+  "title": "Classify applications by impact and risk and apply proportionate governance.",
+  "titleNl": "Classificeer toepassingen naar impact en risico en pas proportionele governance toe.",
+  "evidence": "Classification methodology",
+  "evidenceNl": "Classificatiemethodiek",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Risk management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "risicomethodiek en criteria voor impact en classificatie"
+  ],
+  "euArticlesNl": "Art. 5, 6, 50 en 51 — classificatie als verboden, high-risk, transparantieplichtig of GPAI",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO/IEC TR 24028"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel impact- en risicoklassen vast met proportionele minimale beheersmaatregelen.",
+   "process": "Classificeer bij intake, laat reviewen en herclassificeer bij wijzigingen of incidenten.",
+   "technical": "Implementeer een scoringsmodel dat automatisch controlset, goedkeurders en reviewfrequentie bepaalt.",
+   "structural": "Beleg methodiek bij Risk en uitzonderingsbesluiten bij bevoegde governancefora.",
+   "relational": "Kalibreer criteria met business, legal, privacy, security, data en maatschappelijke stakeholders."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "S01",
+  "domain": "Strategy, value & investment",
+  "domainNl": "Strategie, waarde & investeringen",
+  "title": "Test every AI investment against objectives, values and intended value creation.",
+  "titleNl": "Toets elke AI-investering aan doelstellingen, waarden en gewenste waardecreatie.",
+  "evidence": "Strategic fit assessment",
+  "evidenceNl": "Strategische fitbeoordeling",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Executive management / Portfolio",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "Organisatiestrategie",
+   "investeringscriteria en beslissingsbevoegdheid"
+  ],
+  "euArticlesNl": "Ondersteunend aan art. 9 en 17 — AI-inzet afstemmen op doelstellingen en risicogestuurd kwaliteitsbeheer",
+  "otherIso": [
+   "ISO/IEC 38506",
+   "ISO/IEC 38500:2015"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht aantoonbare aansluiting van AI-investeringen op strategie, waarden en waardecreatie.",
+   "process": "Voeg een strategische fit-gate toe vóór portfolioselectie en financiering.",
+   "technical": "Gebruik portfoliotooling met scores voor doelen, waarde, risico en afhankelijkheden.",
+   "structural": "Laat Portfolio adviseren en directie of investeringscomité besluiten.",
+   "relational": "Laat business, Finance, Risk en gebruikers gezamenlijk de verwachte waarde challengen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "S02",
+  "domain": "Strategy, value & investment",
+  "domainNl": "Strategie, waarde & investeringen",
+  "title": "Define benefits, costs, success criteria and unwanted side effects before approval.",
+  "titleNl": "Definieer baten, kosten, succescriteria en ongewenste neveneffecten vóór goedkeuring.",
+  "evidence": "Business case and KPIs",
+  "evidenceNl": "Businesscase en KPI's",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Business owner",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "financiële raming, baseline, meetplan en impactinformatie"
+  ],
+  "euArticlesNl": "Art. 9 en 15 — baten, risico’s, prestatiecriteria en ongewenste effecten vooraf beoordelen",
+  "otherIso": [
+   "ISO/IEC 38506",
+   "ISO/IEC TR 24030"
+  ],
+  "mechanismsNl": {
+   "policy": "Eis vooraf meetbare baten, volledige levenscycluskosten, succescriteria en guardrails.",
+   "process": "Leg baseline en meetplan vast; toets deze bij goedkeuring en elke faseovergang.",
+   "technical": "Koppel KPI's, kosten en neveneffecten aan dashboard en benefit-tracking.",
+   "structural": "Business owner is batenverantwoordelijk; Finance valideert kosten en meetbaarheid.",
+   "relational": "Stem succes en onaanvaardbare effecten af met gebruikers en getroffen belanghebbenden."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "S03",
+  "domain": "Strategy, value & investment",
+  "domainNl": "Strategie, waarde & investeringen",
+  "title": "Assess alternatives, including a non-AI solution, and justify the choice for AI.",
+  "titleNl": "Beoordeel alternatieven, waaronder een niet-AI-oplossing, en motiveer de AI-keuze.",
+  "evidence": "Options analysis and decision memo",
+  "evidenceNl": "Optieanalyse en besluitnota",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Business owner",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "vergelijkbare niet-AI-opties, kosten en risico-informatie"
+  ],
+  "euArticlesNl": "Ondersteunend aan art. 9 en 27 — alternatieven en proportionaliteit meenemen in risico- en grondrechtenbeoordeling",
+  "otherIso": [
+   "ISO/IEC 38506"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht aantoonbare vergelijking met procesverbetering, regels, klassieke analytics en niets doen.",
+   "process": "Voer een optieanalyse uit met vaste criteria en documenteer de keuze in de besluitnota.",
+   "technical": "Gebruik een vergelijkingssjabloon met kosten-, risico-, prestatie- en uitlegbaarheidsscores.",
+   "structural": "Laat architectuur en business opties uitwerken; bevoegde sponsor neemt het besluit.",
+   "relational": "Betrek eindgebruikers, techniek, Finance en Risk om voorkeurbias voor AI te beperken."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "S04",
+  "domain": "Strategy, value & investment",
+  "domainNl": "Strategie, waarde & investeringen",
+  "title": "Monitor whether the realised value over the lifecycle outweighs costs and risks.",
+  "titleNl": "Bewaak of gerealiseerde waarde gedurende de levenscyclus opweegt tegen kosten en risico's.",
+  "evidence": "Periodic benefit/cost review",
+  "evidenceNl": "Periodieke baten-/kostenreview",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Portfolio / Finance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "gemeten baten, kosten en risico’s",
+   "evaluatiefrequentie"
+  ],
+  "euArticlesNl": "Art. 9 en 72 — baten, risico’s en prestaties gedurende de levenscyclus blijven beoordelen",
+  "otherIso": [
+   "ISO/IEC 38506",
+   "ISO/IEC 38500:2015"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg periodieke batenrealisatie en total-cost-of-ownership-review verplicht vast.",
+   "process": "Vergelijk realisatie met baseline; stuur bij, schaal af of stop bij onvoldoende waarde.",
+   "technical": "Combineer financiële data, gebruik, prestaties en risico's in een levenscyclusdashboard.",
+   "structural": "Portfolio en Finance rapporteren; business owner voert verbeteracties uit.",
+   "relational": "Bespreek waarde met gebruikers, operations, Finance en getroffen stakeholders."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "S05",
+  "domain": "Strategy, value & investment",
+  "domainNl": "Strategie, waarde & investeringen",
+  "title": "Define criteria for pausing, changing or terminating an AI application.",
+  "titleNl": "Definieer criteria voor pauzeren, wijzigen of beëindigen van een AI-toepassing.",
+  "evidence": "Stop criteria and exit plan",
+  "evidenceNl": "Stopcriteria en exitplan",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "grenzen voor risico en prestaties",
+   "bevoegdheid om te pauzeren of stoppen"
+  ],
+  "euArticlesNl": "Art. 9, 20, 72 en 73 — criteria voor correctie, terugtrekking, uitschakeling en incidentrespons",
+  "otherIso": [
+   "ISO/IEC 38506",
+   "ISO/IEC 23894:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer vooraf harde en zachte pauze-, wijzigings- en stopcriteria, inclusief exitverplichtingen.",
+   "process": "Toets drempels periodiek en activeer een gecontroleerd besluit-, communicatie- en exitproces.",
+   "technical": "Bouw kill switch, feature toggle, fallback, data-export en decommission-checklist waar passend.",
+   "structural": "Wijs stopbevoegdheid, crisisrollen en exit-eigenaars expliciet toe.",
+   "relational": "Oefen stopscenario's met leverancier, operations, gebruikers en communicatie."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "D01",
+  "domain": "Decision-making & human oversight",
+  "domainNl": "Besluitvorming & menselijk toezicht",
+  "title": "Determine which decisions are supported, recommended or autonomously executed by AI.",
+  "titleNl": "Bepaal welke beslissingen door AI worden ondersteund, aanbevolen of autonoom uitgevoerd.",
+  "evidence": "Decision-making model",
+  "evidenceNl": "Besluitvormingsmodel",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Business owner",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "procesanalyse",
+   "input van gebruikers en proceseigenaar over de beslisketen"
+  ],
+  "euArticlesNl": "Art. 6, 13 en 14 — beslisfunctie, beoogd gebruik en mate van menselijke controle vastleggen",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO/IEC TR 24028"
+  ],
+  "mechanismsNl": {
+   "policy": "Classificeer beslissingen als ondersteund, aanbevolen of autonoom en stel per klasse grenzen.",
+   "process": "Maak een beslisimpactanalyse onderdeel van ontwerpgoedkeuring en wijzigingsbeheer.",
+   "technical": "Leg beslislogica, automatiseringsniveau en menselijke stappen vast in systeem- en procesconfiguratie.",
+   "structural": "Wijs een proceseigenaar aan voor elke beslisketen en een onafhankelijke reviewer voor hoge impact.",
+   "relational": "Bespreek de gekozen rol van AI met beslissers, gebruikers en betrokken personen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "D02",
+  "domain": "Decision-making & human oversight",
+  "domainNl": "Besluitvorming & menselijk toezicht",
+  "title": "Define appropriate human control, authority and intervention possibilities.",
+  "titleNl": "Leg passende menselijke controle, bevoegdheden en interventiemogelijkheden vast.",
+  "evidence": "Oversight design and instructions",
+  "evidenceNl": "Oversightontwerp en instructies",
+  "level": "Managerial",
+  "mechanism": "Structure",
+  "owner": "Business owner",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "bevoegdheden, interventiemiddelen en werkbare toezichtscenario’s"
+  ],
+  "euArticlesNl": "Art. 14 en 26 — passend menselijk toezicht, bevoegdheden en mogelijkheid tot ingrijpen",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO/IEC TR 24028"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel minimale eisen aan menselijke controle, bevoegdheid, responstijd en interventie.",
+   "process": "Ontwerp review-, override-, escalatie- en noodstopstappen in de operationele werkinstructie.",
+   "technical": "Bied reviewqueues, overridefuncties, alerts en toegangsrechten met volledige logging.",
+   "structural": "Plan voldoende bevoegde reviewers en functiescheiding voor kritieke beslissingen.",
+   "relational": "Train reviewers en organiseer feedback tussen gebruikers, ontwikkelaars en controlfuncties."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "D03",
+  "domain": "Decision-making & human oversight",
+  "domainNl": "Besluitvorming & menselijk toezicht",
+  "title": "Ensure decision-makers can understand, challenge and correct AI outputs.",
+  "titleNl": "Zorg dat besluitvormers AI-uitkomsten kunnen begrijpen, betwisten en corrigeren.",
+  "evidence": "Explanation, training and override log",
+  "evidenceNl": "Uitleg, training en override-log",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Process owner",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "gebruikersinstructies, uitleg van outputs en procedure voor correctie"
+  ],
+  "euArticlesNl": "Art. 13, 14 en 26 — output begrijpen, correct interpreteren, negeren of overrulen",
+  "otherIso": [
+   "ISO/IEC TR 24028"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht begrijpelijke uitleg, recht op betwisting en bevoegdheid tot correctie.",
+   "process": "Laat besluitvormers oefenen; analyseer overrides en terugkerende betwistingen.",
+   "technical": "Toon relevante factoren, onzekerheid en broninformatie; registreer reden en uitkomst van overrides.",
+   "structural": "Maak menselijke beoordelaars eigenaar van het finale besluit en bewaak werkdruk.",
+   "relational": "Creëer een feedbacklus tussen beoordelaars, modelteam, compliance en betrokken personen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "D04",
+  "domain": "Decision-making & human oversight",
+  "domainNl": "Besluitvorming & menselijk toezicht",
+  "title": "Define the required transparency and explainability appropriate to impact and context.",
+  "titleNl": "Definieer vereiste transparantie en uitlegbaarheid passend bij impact en context.",
+  "evidence": "Transparency criteria",
+  "evidenceNl": "Transparantiecriteria",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "AI governance function",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "behoeften van gebruikers en getroffenen",
+   "juridische transparantie-eisen"
+  ],
+  "euArticlesNl": "Art. 13, 50 en 86 — informatie, transparantie en waar toepasselijk uitleg over individuele besluitvorming",
+  "otherIso": [
+   "ISO/IEC TR 24028",
+   "ISO/IEC TR 24368"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer transparantie- en uitlegbaarheidsniveaus per impact, doelgroep en gebruikscontext.",
+   "process": "Selecteer uitlegvereisten tijdens impactanalyse en toets ze vóór en na ingebruikname.",
+   "technical": "Implementeer model cards, beslisuitleg, confidence-indicatie en gebruikersgerichte toelichting.",
+   "structural": "Laat AI-governance criteria beheren; Legal en UX beoordelen begrijpelijkheid.",
+   "relational": "Test uitleg met eindgebruikers en vertegenwoordigers van getroffen groepen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "D05",
+  "domain": "Decision-making & human oversight",
+  "domainNl": "Besluitvorming & menselijk toezicht",
+  "title": "Test for unintended bias, unequal effects and unacceptable outcomes.",
+  "titleNl": "Test op onbedoelde vertekening, ongelijke effecten en onaanvaardbare uitkomsten.",
+  "evidence": "Bias and impact test report",
+  "evidenceNl": "Bias- en impacttestrapport",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Model risk / Data science",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "representatieve testdata, fairnesscriteria en onafhankelijke testexpertise"
+  ],
+  "euArticlesNl": "Art. 9, 10, 15 en 27 — bias, discriminerende effecten en grondrechtenrisico’s testen",
+  "otherIso": [
+   "ISO/IEC TR 24027",
+   "ISO/IEC 23894:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel normen, beschermde dimensies, toleranties en verboden uitkomsten voor bias vast.",
+   "process": "Test vóór vrijgave en periodiek per relevante subgroep; onderzoek afwijkingen en herstel.",
+   "technical": "Automatiseer fairnessmetingen, segmentanalyses, drempelalerts en reproduceerbare testrapporten.",
+   "structural": "Laat een onafhankelijke validatiefunctie toetsen en wijs remediatie-eigenaars aan.",
+   "relational": "Betrek domeinexperts en vertegenwoordigers van mogelijk benadeelde groepen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "D06",
+  "domain": "Decision-making & human oversight",
+  "domainNl": "Besluitvorming & menselijk toezicht",
+  "title": "Set up complaints, objection, redress and human re-assessment.",
+  "titleNl": "Richt klachten, bezwaar, herstel en menselijke herbeoordeling in.",
+  "evidence": "Complaints and appeals procedure",
+  "evidenceNl": "Klachten- en beroepsprocedure",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Compliance / Operations",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "klachtenkanaal, juridische rechten, menselijke beoordelaars en hersteltijden"
+  ],
+  "euArticlesNl": "Art. 26, 85 en 86 — menselijke herbeoordeling, klachtenmogelijkheid en recht op uitleg waar toepasselijk",
+  "otherIso": [
+   "ISO 37301:2021",
+   "ISO/IEC TR 24368"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg toegankelijke klacht-, bezwaar-, herstel- en menselijke herbeoordelingsrechten vast.",
+   "process": "Richt ontvangst, triage, termijnen, herbeoordeling, herstel en terugkoppeling in.",
+   "technical": "Gebruik een case-managementsysteem gekoppeld aan besluitlog, modelversie en communicatie.",
+   "structural": "Benoem onafhankelijke behandelaars en escalatie naar Compliance of ombudsfunctie.",
+   "relational": "Communiceer kanalen helder en leer met gebruikers en belangengroepen van klachtenpatronen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "D07",
+  "domain": "Decision-making & human oversight",
+  "domainNl": "Besluitvorming & menselijk toezicht",
+  "title": "Retain traceability of data, model versions, decisions, overrides and approvals.",
+  "titleNl": "Bewaar traceerbaarheid van data, modelversies, beslissingen, overrides en goedkeuringen.",
+  "evidence": "Audit trail and logging policy",
+  "evidenceNl": "Audittrail en loggingbeleid",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "IT / Model owner",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "logvereisten, versiebeheer en bewaarbeleid"
+  ],
+  "euArticlesNl": "Art. 11, 12, 18 en 26 — technische documentatie, logging, bewaarplicht en traceerbaarheid",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO/IEC 42001:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel bewaareisen vast voor dataherkomst, modelversie, beslissing, override en goedkeuring.",
+   "process": "Controleer volledigheid van audittrails bij release, steekproef en incidentonderzoek.",
+   "technical": "Gebruik onveranderbare, tijdgesynchroniseerde logs met toegangscontrole en retentiebeheer.",
+   "structural": "Wijs log-eigenaarschap toe en scheid beheer, gebruik en onafhankelijke controle.",
+   "relational": "Stem traceerbaarheid af met leveranciers, auditors, gebruikers en juridische functies."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "A01",
+  "domain": "Data governance",
+  "domainNl": "Datagovernance",
+  "title": "Determine which data is needed, its provenance and intended use.",
+  "titleNl": "Bepaal welke data nodig zijn, hun herkomst en het gebruiksdoel.",
+  "evidence": "Data flows and purpose limitation",
+  "evidenceNl": "Datastromen en doelbinding",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Data owner",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "datacatalogus, herkomstinformatie en afgesproken gebruiksdoel"
+  ],
+  "euArticlesNl": "Art. 10 en bijlage IV — databehoefte, herkomst, beoogd doel en dataspecificaties",
+  "otherIso": [
+   "ISO/IEC 38505-1:2017",
+   "ISO/IEC TR 38505-2"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg doelbinding, minimale databehoefte, toegestane bronnen en verboden hergebruik vast.",
+   "process": "Maak datamapping en bronvalidatie verplicht vóór toegang en bij doelwijziging.",
+   "technical": "Gebruik data catalogus, lineage en metadata voor bron, doel, toestemming en gebruik.",
+   "structural": "Data owner keurt gebruik goed; steward onderhoudt metadata en controles.",
+   "relational": "Stem behoeften en grenzen af met business, privacy, security en bronhouders."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "A02",
+  "domain": "Data governance",
+  "domainNl": "Datagovernance",
+  "title": "Assign stewardship roles for training, test, input and output data.",
+  "titleNl": "Wijs beheerrollen toe voor trainings-, test-, invoer- en uitvoerdata.",
+  "evidence": "Data RACI",
+  "evidenceNl": "Data-RACI",
+  "level": "Managerial",
+  "mechanism": "Structure",
+  "owner": "Data governance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "data-eigenaarschap en beschikbare beheercapaciteit"
+  ],
+  "euArticlesNl": "Art. 10, 16 en 26 — verantwoordelijkheden voor data governance bij provider en deployer",
+  "otherIso": [
+   "ISO/IEC 38505-1:2017",
+   "ISO/IEC TR 38505-2"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer rollen en verantwoordelijkheden voor trainings-, test-, input- en outputdata.",
+   "process": "Wijs rollen toe bij intake en herbevestig bij dataset- of proceswijziging.",
+   "technical": "Registreer RACI, toegangsrechten en goedkeuringen in catalogus en IAM.",
+   "structural": "Veranker data owner, steward, custodian en model owner in governance.",
+   "relational": "Organiseer vaste overdrachten tussen data-, model-, operations- en controlteams."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "A03",
+  "domain": "Data governance",
+  "domainNl": "Datagovernance",
+  "title": "Set requirements for quality, representativeness, timeliness, completeness and provenance.",
+  "titleNl": "Stel eisen aan kwaliteit, representativiteit, actualiteit, volledigheid en herkomst.",
+  "evidence": "Data quality rules and report",
+  "evidenceNl": "Datakwaliteitsregels en rapport",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Data owner",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "meetbare datakwaliteitscriteria en input van domeinexperts"
+  ],
+  "euArticlesNl": "Art. 10 — kwaliteit, relevantie, representativiteit, volledigheid en herkomst van datasets",
+  "otherIso": [
+   "ISO/IEC 38505-1:2017",
+   "ISO/IEC TS 38505-3"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel meetbare normen vast voor kwaliteit, representativiteit, actualiteit, volledigheid en herkomst.",
+   "process": "Profileer data, beoordeel tegen drempels en behandel uitzonderingen vóór gebruik.",
+   "technical": "Automatiseer kwaliteitsregels, lineage, datasetversies en alerts in de datapijplijn.",
+   "structural": "Data owner accepteert kwaliteit; steward beheert issues; model risk challenget geschiktheid.",
+   "relational": "Laat domeinexperts en gebruikers bepalen welke fouten materieel zijn."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "A04",
+  "domain": "Data governance",
+  "domainNl": "Datagovernance",
+  "title": "Assess privacy, confidentiality, intellectual property and access rights.",
+  "titleNl": "Beoordeel privacy, vertrouwelijkheid, intellectuele eigendom en toegangsrechten.",
+  "evidence": "DPIA/impact assessment and rights register",
+  "evidenceNl": "DPIA/impactanalyse en rechtenregister",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Privacy / Legal",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "contracten, privacy- en IP-rechten",
+   "beoordeling door juridisch en privacy"
+  ],
+  "euArticlesNl": "Art. 10 en 27 — gegevensgovernance, bijzondere persoonsgegevens en grondrechtenimpact; AVG blijft aanvullend gelden",
+  "otherIso": [
+   "ISO/IEC 38505-1:2017",
+   "ISO/IEC 27001:2022"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg eisen vast voor privacy, vertrouwelijkheid, intellectuele eigendom en least privilege.",
+   "process": "Voer DPIA/rechtencheck uit vóór verwerking en herhaal bij nieuw doel, data of leverancier.",
+   "technical": "Pas classificatie, encryptie, pseudonimisering, IAM en licentie-/rechtenregistratie toe.",
+   "structural": "Privacy, Legal en CISO hebben formele advies- of goedkeuringsrechten.",
+   "relational": "Maak afspraken met betrokkenen, bronhouders en leveranciers over rechten en gebruik."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "A05",
+  "domain": "Data governance",
+  "domainNl": "Datagovernance",
+  "title": "Manage access, security, retention periods, deletion and reuse of data.",
+  "titleNl": "Beheer toegang, beveiliging, bewaartermijnen, verwijdering en hergebruik van data.",
+  "evidence": "Access model and retention policy",
+  "evidenceNl": "Toegangsmodel en retentiebeleid",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "CISO / Data owner",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "toegangsrollen, beveiligingsmiddelen en vastgestelde bewaartermijnen"
+  ],
+  "euArticlesNl": "Art. 10, 18 en 78 — passend gegevensbeheer, documentbewaring en vertrouwelijkheid",
+  "otherIso": [
+   "ISO/IEC 38505-1:2017",
+   "ISO/IEC 27001:2022"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer toegangs-, beveiligings-, retentie-, verwijderings- en hergebruikregels per dataklasse.",
+   "process": "Voer periodieke access reviews uit en automatiseer bewaartermijn en gecontroleerde verwijdering.",
+   "technical": "Gebruik RBAC, encryptie, DLP, retentielabels en verifieerbare deletion workflows.",
+   "structural": "CISO en data owner delen control ownership; functiescheiding wordt afgedwongen.",
+   "relational": "Stem uitzonderingen af met Legal, Privacy, operations en externe datahouders."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "A06",
+  "domain": "Data governance",
+  "domainNl": "Datagovernance",
+  "title": "Monitor data drift, quality degradation and changes in the context of use.",
+  "titleNl": "Monitor datadrift, kwaliteitsverlies en wijzigingen in de gebruikscontext.",
+  "evidence": "Drift monitoring and thresholds",
+  "evidenceNl": "Driftmonitoring en drempels",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Model owner",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "kwaliteitsbaseline, monitoringdata en signaleringsdrempels"
+  ],
+  "euArticlesNl": "Art. 9, 10, 15 en 72 — datadrift, kwaliteitsverlies en gewijzigde gebruikscontext monitoren",
+  "otherIso": [
+   "ISO/IEC 38505-1:2017",
+   "ISO/IEC 23894:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg driftindicatoren, drempels, meetfrequentie en verplichte acties vast.",
+   "process": "Monitor continu of periodiek; analyseer oorzaken en activeer hertraining, beperking of stop.",
+   "technical": "Bouw data- en conceptdriftdetectie met baselines, alerts en versiegekoppelde dashboards.",
+   "structural": "Model owner volgt op; Data owner en Model Risk beoordelen materiële drift.",
+   "relational": "Verzamel feedback van gebruikers en domeinexperts over contextverandering."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "A07",
+  "domain": "Data governance",
+  "domainNl": "Datagovernance",
+  "title": "Set conditions for data and model sharing with chain partners.",
+  "titleNl": "Leg voorwaarden voor data- en modeldeling met ketenpartners vast.",
+  "evidence": "Supplier agreements",
+  "evidenceNl": "Leveranciersafspraken",
+  "level": "Managerial",
+  "mechanism": "Relational",
+  "owner": "Procurement / Legal",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "contractuele afspraken over toegang, rechten en verantwoordelijkheden"
+  ],
+  "euArticlesNl": "Art. 25 en 26 — voorwaarden, verantwoordelijkheden en informatie-uitwisseling in de waardeketen",
+  "otherIso": [
+   "ISO/IEC 38505-1:2017",
+   "ISO/IEC 27001:2022"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel voorwaarden vast voor data- en modeldeling, gebruiksdoelen, beveiliging, audit en beëindiging.",
+   "process": "Voer due diligence en goedkeuring uit vóór delen; herzie afspraken periodiek.",
+   "technical": "Gebruik beveiligde uitwisseling, toegangslogging, watermarking en intrekking waar passend.",
+   "structural": "Wijs contract-, data- en security-eigenaars aan met gezamenlijke reviewverantwoordelijkheid.",
+   "relational": "Maak wederzijdse afspraken met partners over incidenten, wijzigingen en verwijdering."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "V01",
+  "domain": "Culture, values & people",
+  "domainNl": "Cultuur, waarden & mensen",
+  "title": "Translate organisational values and ethics into concrete AI policy and design criteria.",
+  "titleNl": "Vertaal organisatiewaarden en ethiek naar concrete AI-beleids- en ontwerpcriteria.",
+  "evidence": "AI policy and ethical criteria",
+  "evidenceNl": "AI-beleid en ethische criteria",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "Organisatiewaarden",
+   "input van bestuur en belanghebbenden",
+   "afstemming met bestaand beleid"
+  ],
+  "euArticlesNl": "Art. 4, 9 en 17 — waarden vertalen naar beleid, AI-geletterdheid en risicogestuurd kwaliteitsbeheer",
+  "otherIso": [
+   "ISO 37000:2021",
+   "ISO/IEC TR 24368"
+  ],
+  "mechanismsNl": {
+   "policy": "Vertaal waarden naar toetsbare AI-principes, verboden praktijken en ontwerpcriteria.",
+   "process": "Voer een waarden- en ethiektoets uit bij ontwerp, goedkeuring en periodieke evaluatie.",
+   "technical": "Neem ethische criteria op in requirements, model cards en geautomatiseerde kwaliteitsgates.",
+   "structural": "Richt een ethische adviesfunctie of multidisciplinair reviewpanel in.",
+   "relational": "Organiseer dialoog met medewerkers, gebruikers en getroffen groepen over dilemma's."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "V02",
+  "domain": "Culture, values & people",
+  "domainNl": "Cultuur, waarden & mensen",
+  "title": "Assess consequences for people, society, human rights, inclusion, environment and sustainability.",
+  "titleNl": "Beoordeel gevolgen voor personen, samenleving, mensenrechten, inclusie, milieu en duurzaamheid.",
+  "evidence": "Broad impact assessment",
+  "evidenceNl": "Brede impactbeoordeling",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "ESG / Compliance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "kennis van betrokken groepen, impactcriteria en betrouwbare effectgegevens"
+  ],
+  "euArticlesNl": "Art. 9 en 27 — effecten op personen, groepen, grondrechten en samenleving beoordelen",
+  "otherIso": [
+   "ISO 26000:2010",
+   "ISO/IEC TR 24368"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht beoordeling van effecten op mensenrechten, inclusie, samenleving, milieu en duurzaamheid.",
+   "process": "Voer een brede impactbeoordeling uit met mitigatie en herbeoordeling bij verandering.",
+   "technical": "Gebruik impactregister, segmentmetingen, energie-/resource-indicatoren en opvolgdashboard.",
+   "structural": "ESG en Compliance coördineren; domeineigenaars voeren maatregelen uit.",
+   "relational": "Betrek werknemers, maatschappelijke experts en vertegenwoordigers van getroffen groepen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "V03",
+  "domain": "Culture, values & people",
+  "domainNl": "Cultuur, waarden & mensen",
+  "title": "Involve relevant stakeholders in design, introduction and evaluation.",
+  "titleNl": "Betrek relevante belanghebbenden bij ontwerp, invoering en evaluatie.",
+  "evidence": "Stakeholder plan and minutes",
+  "evidenceNl": "Stakeholderplan en verslagen",
+  "level": "Managerial",
+  "mechanism": "Relational",
+  "owner": "Business owner",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "stakeholderoverzicht, benaderingsplan en veilige feedbackkanalen"
+  ],
+  "euArticlesNl": "Art. 9, 27 en 72 — relevante belanghebbenden en getroffen personen betrekken bij beoordeling en monitoring",
+  "otherIso": [
+   "ISO 37000:2021",
+   "ISO/IEC TR 24368"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg vast welke belanghebbenden wanneer en met welke invloed worden betrokken.",
+   "process": "Maak stakeholderanalyse, consultatie, responslog en terugkoppeling onderdeel van de levenscyclus.",
+   "technical": "Gebruik een stakeholderregister en digitaal consultatie- en issue-trackingkanaal.",
+   "structural": "Wijs een engagement owner aan en borg vertegenwoordiging in projectgovernance.",
+   "relational": "Werk met tweerichtingsdialoog en documenteer hoe input besluiten veranderde."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "V04",
+  "domain": "Culture, values & people",
+  "domainNl": "Cultuur, waarden & mensen",
+  "title": "Ensure role-based AI literacy for the board, management, users and control functions.",
+  "titleNl": "Borg rolgerichte AI-geletterdheid voor bestuur, management, gebruikers en controlefuncties.",
+  "evidence": "Competence matrix and training register",
+  "evidenceNl": "Competentiematrix en opleidingsregister",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "HR / L&D",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "rolprofielen, opleidingsmiddelen en toets op leerresultaat"
+  ],
+  "euArticlesNl": "Art. 4, 14 en 26 — voldoende AI-geletterdheid en competentie voor personeel en toezichthouders",
+  "otherIso": [
+   "ISO/IEC 42001:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer rolgerichte minimale AI-geletterdheid en periodieke hercertificering.",
+   "process": "Meet competentiegaten, bied training en toets toepassing in de praktijk.",
+   "technical": "Gebruik LMS, skillsmatrix, assessments en reminders voor verlopen kwalificaties.",
+   "structural": "HR/L&D beheert het kader; lijnmanagement borgt deelname en inzetbaarheid.",
+   "relational": "Laat experts, gebruikers en controlefuncties samen casuïstiek en lessen delen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "V05",
+  "domain": "Culture, values & people",
+  "domainNl": "Cultuur, waarden & mensen",
+  "title": "Enable safe reporting of concerns and incidents.",
+  "titleNl": "Maak veilig melden van zorgen en incidenten mogelijk.",
+  "evidence": "Reporting policy and speak-up channel",
+  "evidenceNl": "Meldregeling en speak-upkanaal",
+  "level": "Managerial",
+  "mechanism": "Structure",
+  "owner": "HR / Compliance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "vertrouwelijk meldkanaal, bescherming van melders en opvolgverantwoordelijke"
+  ],
+  "euArticlesNl": "Art. 20, 26, 72 en 73 — interne melding, opvolging en escalatie van risico’s en ernstige incidenten",
+  "otherIso": [
+   "ISO 37000:2021",
+   "ISO 37301:2021"
+  ],
+  "mechanismsNl": {
+   "policy": "Neem non-retaliation, vertrouwelijkheid en meldrechten voor AI-zorgen op in beleid.",
+   "process": "Bied laagdrempelige intake, triage, onderzoek, bescherming en terugkoppeling.",
+   "technical": "Gebruik beveiligde anonieme meldkanalen en case tracking met beperkte toegang.",
+   "structural": "Wijs onafhankelijke meldbehandelaars aan en rapporteer patronen aan bestuur.",
+   "relational": "Bouw vertrouwen via leidinggevenden, werknemersvertegenwoordiging en transparante opvolging."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "V06",
+  "domain": "Culture, values & people",
+  "domainNl": "Cultuur, waarden & mensen",
+  "title": "Assess effects on work, roles, autonomy, wellbeing and skills.",
+  "titleNl": "Beoordeel effecten op werk, rollen, autonomie, welzijn en vaardigheden.",
+  "evidence": "Workforce impact analysis",
+  "evidenceNl": "Personeelsimpactanalyse",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "HR / Process owner",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "HR- en procesanalyse",
+   "betrokkenheid van werknemers en vertegenwoordigers"
+  ],
+  "euArticlesNl": "Art. 9, 14 en 27 — gevolgen voor autonomie, werk, vaardigheden en menselijke controle beoordelen",
+  "otherIso": [
+   "ISO 26000:2010",
+   "ISO/IEC TR 24368"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht beoordeling van impact op werk, rollen, autonomie, welzijn en vaardigheden.",
+   "process": "Voer vóór invoering een personeelsimpactanalyse uit en monitor effecten na livegang.",
+   "technical": "Gebruik workforce analytics, workloadmetingen en feedbackkanalen met privacywaarborgen.",
+   "structural": "HR en proceseigenaar maken een transitie-, capaciteit- en opleidingsplan.",
+   "relational": "Ontwerp veranderingen samen met medewerkers, leidinggevenden en vertegenwoordigers."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "P01",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Inventory mandatory and voluntary obligations per AI application.",
+  "titleNl": "Inventariseer verplichte en vrijwillige verplichtingen per AI-toepassing.",
+  "evidence": "Compliance obligations register",
+  "evidenceNl": "Complianceverplichtingenregister",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Compliance / Legal",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "toepasselijke wetgeving, operatorrol en contracteisen"
+  ],
+  "euArticlesNl": "Art. 2, 3, 5, 6, 16, 26, 50 en 51 — toepasselijke rol, risicoklasse en verplichtingen per use case bepalen",
+  "otherIso": [
+   "ISO 37301:2021",
+   "ISO/IEC 42001:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht een actueel register van wettelijke, contractuele en vrijwillige AI-verplichtingen.",
+   "process": "Identificeer toepasselijkheid bij intake en update bij wijziging van context of regels.",
+   "technical": "Koppel verplichtingen in GRC aan use cases, jurisdicties, controls en bewijs.",
+   "structural": "Compliance beheert methodiek; Legal interpreteert; owners bevestigen naleving.",
+   "relational": "Stem verplichtingen af met leveranciers, klanten, toezichthouders en interne experts."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "P02",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Translate obligations into controls, acceptance criteria and responsible owners.",
+  "titleNl": "Vertaal verplichtingen naar controles, acceptatiecriteria en verantwoordelijken.",
+  "evidence": "Control matrix",
+  "evidenceNl": "Controlmatrix",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Compliance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "control-eigenaren, juridische interpretatie en acceptatiecriteria"
+  ],
+  "euArticlesNl": "Art. 9, 16, 17 en 26 — verplichtingen vertalen naar controles, acceptatiecriteria en eigenaarschap",
+  "otherIso": [
+   "ISO 37301:2021",
+   "ISO/IEC 42001:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Eis dat elke verplichting wordt vertaald naar toetsbare control, criterium en eigenaar.",
+   "process": "Ontwerp controls, test werking, registreer tekortkomingen en volg herstel tot sluiting.",
+   "technical": "Gebruik een GRC-controlmatrix met automatische taken, bewijsverzameling en reminders.",
+   "structural": "Wijs control owner en onafhankelijke tester toe; Compliance bewaakt dekking.",
+   "relational": "Laat business en techniek samen uitvoerbaarheid bepalen en auditors vroeg challengen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "P03",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Review contracts for audit rights, liability, changes, security, data rights and exit.",
+  "titleNl": "Toets contracten op auditrechten, aansprakelijkheid, wijzigingen, beveiliging, datarechten en exit.",
+  "evidence": "Contract review and clauses",
+  "evidenceNl": "Contractreview en clausules",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Procurement / Legal",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "actuele contracten, leveranciersrollen en juridische/inkoopbeoordeling"
+  ],
+  "euArticlesNl": "Art. 25 en 28 — contractuele taakverdeling, informatie, medewerking en verantwoordelijkheden in de waardeketen",
+  "otherIso": [
+   "ISO 37301:2021",
+   "ISO/IEC 27001:2022"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel verplichte AI-contractclausules vast voor audit, aansprakelijkheid, wijziging, security, data en exit.",
+   "process": "Gebruik due diligence, clausulecheck, afwijkingsgoedkeuring en periodieke contractreview.",
+   "technical": "Koppel contractregister aan leveranciersrisico, AI-register, wijzigingen en vervaldata.",
+   "structural": "Inkoop leidt; Legal en CISO hebben goedkeuringsrechten; owner accepteert restrisico.",
+   "relational": "Onderhandel operationele samenwerking, transparantie en incidentmeldingen met leveranciers."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "P04",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Plan independent assurance or audit according to impact and risk profile.",
+  "titleNl": "Plan onafhankelijke assurance of audit naar impact en risicoprofiel.",
+  "evidence": "Audit plan and assurance report",
+  "evidenceNl": "Auditplan en assurancerapport",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Internal audit",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "onafhankelijk auditmandaat, toetscriteria en beschikbare auditors"
+  ],
+  "euArticlesNl": "Art. 43 en 17 — conformiteitsbeoordeling en onafhankelijke assurance/audit naar toepasselijkheid",
+  "otherIso": [
+   "ISO 37301:2021",
+   "ISO/IEC 42001:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer assurance-niveau en onafhankelijkheid proportioneel aan impact en risico.",
+   "process": "Maak een risicogebaseerd auditplan, voer reviews uit en bewaak remediatie.",
+   "technical": "Gebruik auditmanagementsoftware voor scope, bewijs, bevindingen en opvolging.",
+   "structural": "Interne Audit behoudt onafhankelijkheid; externe expertise wordt ingezet waar nodig.",
+   "relational": "Bespreek scope en bevindingen met bestuur, owners, controlfuncties en leveranciers."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "P05",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Communicate transparently about AI use, rights, limitations and contact points.",
+  "titleNl": "Communiceer transparant over AI-gebruik, rechten, beperkingen en contactpunten.",
+  "evidence": "User information and communication plan",
+  "evidenceNl": "Gebruikersinformatie en communicatieplan",
+  "level": "Managerial",
+  "mechanism": "Relational",
+  "owner": "Communications / Compliance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "gevalideerde gebruikersinformatie en akkoord van juridisch/communicatie"
+  ],
+  "euArticlesNl": "Art. 13, 26, 50, 85 en 86 — informatie aan gebruikers, transparantie, klachten en uitleg waar toepasselijk",
+  "otherIso": [
+   "ISO 37301:2021",
+   "ISO/IEC TR 24368"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg transparantie-eisen vast over AI-gebruik, rechten, beperkingen en contactpunten.",
+   "process": "Toets communicatie vóór publicatie en actualiseer bij model-, doel- of risicowijziging.",
+   "technical": "Gebruik contextuele meldingen, modelinformatie, toegankelijke kanalen en versiebeheer.",
+   "structural": "Communicatie en Compliance keuren inhoud goed; productowner beheert plaatsing.",
+   "relational": "Test begrijpelijkheid met gebruikers en bied bereikbare menselijke contactpunten."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R01",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Integrate AI risks and opportunities into enterprise-wide risk management.",
+  "titleNl": "Integreer AI-risico's en kansen in ondernemingsbreed risicobeheer.",
+  "evidence": "AI risk register linked to ERM",
+  "evidenceNl": "AI-risicoregister gekoppeld aan ERM",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Risk management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "ondernemingsbreed risicokader en afstemming met risk owner"
+  ],
+  "euArticlesNl": "Art. 9 en 17 — continu risicomanagement integreren in het kwaliteitsmanagementsysteem",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO 31000:2018"
+  ],
+  "mechanismsNl": {
+   "policy": "Integreer AI-risico's en kansen in ERM-taxonomie, criteria en rapportage.",
+   "process": "Identificeer, beoordeel en behandel AI-risico's via de bestaande risicocyclus.",
+   "technical": "Koppel AI-register en risicoregister met controls, incidenten en indicatoren.",
+   "structural": "Risk beheert raamwerk; risk owners behandelen; bestuur bewaakt top-risico's.",
+   "relational": "Voer gezamenlijke risicosessies uit met business, data, IT, security en compliance."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R02",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Set risk appetite, tolerance limits and escalation thresholds for AI.",
+  "titleNl": "Stel risicobereidheid, tolerantiegrenzen en escalatiedrempels voor AI vast.",
+  "evidence": "Risk appetite and limits",
+  "evidenceNl": "Risk appetite en limieten",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "Organisatiedoelen",
+   "inzicht in risicoblootstelling en formeel bestuursbesluit"
+  ],
+  "euArticlesNl": "Art. 9 en 15 — risicocriteria, aanvaardbaarheid en drempels voor prestaties, veiligheid en robuustheid",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO 31000:2018"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg risicobereidheid, tolerantiegrenzen en escalatiedrempels per impactklasse vast.",
+   "process": "Vertaal appetite naar operationele limieten en toets overschrijdingen periodiek.",
+   "technical": "Configureer KRI-alerts, blokkades en escalatieworkflows in monitoring en GRC.",
+   "structural": "Bestuur keurt appetite goed; Risk kalibreert; owners bewaken limieten.",
+   "relational": "Bespreek afwegingen met business, controlfuncties en relevante belanghebbenden."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R03",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Assess risks before deployment and again upon material changes to model, data, purpose or context.",
+  "titleNl": "Beoordeel risico's vóór inzet en opnieuw bij materiële wijzigingen in model, data, doel of context.",
+  "evidence": "Risk assessments and change log",
+  "evidenceNl": "Risicobeoordelingen en wijzigingslog",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Model risk / Change board",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "actuele systeemversies en wijzigingssignalen"
+  ],
+  "euArticlesNl": "Art. 9 en 43 — risicobeoordeling vóór inzet en nieuwe beoordeling bij substantiële wijzigingen",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO 31000:2018"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht risicobeoordeling vóór inzet en bij materiële wijziging van model, data, doel of context.",
+   "process": "Gebruik change triggers, herbeoordeling, goedkeuring en gedocumenteerde restrisicoacceptatie.",
+   "technical": "Laat change tooling automatisch een risk review starten en versies aan bewijs koppelen.",
+   "structural": "Model Risk en Change Board hebben onafhankelijke challenge- en stopbevoegdheid.",
+   "relational": "Laat ontwikkelaars, owners, data-, security- en compliancefuncties gezamenlijk beoordelen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R04",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Validate performance, robustness, safety, security, reliability and fitness before use.",
+  "titleNl": "Valideer prestaties, robuustheid, veiligheid, beveiliging, betrouwbaarheid en geschiktheid vóór gebruik.",
+  "evidence": "Independent validation report",
+  "evidenceNl": "Onafhankelijk validatierapport",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Model risk / CISO",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "meetbare acceptatiecriteria, representatieve testomgeving en testteam"
+  ],
+  "euArticlesNl": "Art. 9, 15 en 43 — validatie van nauwkeurigheid, robuustheid, cyberbeveiliging en conformiteit vóór gebruik",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO/IEC TR 24029-1"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel acceptatiecriteria vast voor prestaties, robuustheid, safety, security, betrouwbaarheid en geschiktheid.",
+   "process": "Voer onafhankelijke validatie uit vóór vrijgave en na relevante wijzigingen.",
+   "technical": "Gebruik reproduceerbare testsets, adversarial tests, security scans en modelvalidatiepipeline.",
+   "structural": "Scheid ontwikkeling en validatie; bevoegde eigenaar accepteert restrisico.",
+   "relational": "Betrek domeinexperts, gebruikers, CISO en leverancier bij scenario's en bevindingen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R05",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Define KPIs, risk indicators, thresholds and accountable follow-up.",
+  "titleNl": "Definieer KPI's, risico-indicatoren, drempels en verantwoordelijke opvolging.",
+  "evidence": "KPI/KRI register and dashboard",
+  "evidenceNl": "KPI/KRI-register en dashboard",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Model owner",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "meetbronnen, drempels en verantwoordelijke opvolging"
+  ],
+  "euArticlesNl": "Art. 9, 15, 17 en 72 — KPI’s, risico-indicatoren, drempels en opvolging vastleggen",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO/IEC 42001:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer verplichte KPI's/KRI's, baselines, drempels, frequentie en opvolging.",
+   "process": "Meet, valideer, bespreek en escaleer indicatoren via een vaste monitoringcyclus.",
+   "technical": "Bouw een dashboard met geautomatiseerde datastromen, trends en drempelalerts.",
+   "structural": "Wijs per indicator een meeteigenaar en actie-eigenaar aan; Risk challenget.",
+   "relational": "Bespreek indicatoren met business, modelteam, operations en controlfuncties."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R06",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Monitor performance, bias, drift, incidents, complaints, overrides and value after go-live.",
+  "titleNl": "Monitor prestaties, bias, drift, incidenten, klachten, overrides en waarde na ingebruikname.",
+  "evidence": "Periodic monitoring reports",
+  "evidenceNl": "Periodieke monitoringrapporten",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Model owner / Compliance",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "productiedata, klachten en monitoringverantwoordelijke"
+  ],
+  "euArticlesNl": "Art. 9, 15, 26 en 72 — prestaties, bias, drift, logging en incidenten na ingebruikname monitoren",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO/IEC TR 24027"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht post-deployment monitoring van prestaties, bias, drift, incidenten, klachten, overrides en waarde.",
+   "process": "Voer continue of periodieke monitoring uit en activeer onderzoek en herstel bij signalen.",
+   "technical": "Integreer observability, fairness/driftmetingen, incidentdata en feedback in één dashboard.",
+   "structural": "Model owner leidt; Compliance en Model Risk voeren onafhankelijke review uit.",
+   "relational": "Gebruik feedback van gebruikers en getroffen personen als volwaardige monitoringsbron."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R07",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Set up incident response, emergency stop, fallback, recovery and continuity.",
+  "titleNl": "Richt incidentrespons, noodstop, fallback, herstel en continuïteit in.",
+  "evidence": "Tested incident and continuity plan",
+  "evidenceNl": "Getest incident- en continuïteitsplan",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "CISO / Operations",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "technische stop- en fallbackmogelijkheden",
+   "incidentrollen en oefenplan"
+  ],
+  "euArticlesNl": "Art. 20, 26, 72 en 73 — corrigerende acties, noodstop/fallback, continuïteit en ernstige-incidentmelding",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO/IEC 27001:2022"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg eisen vast voor incidentrespons, noodstop, fallback, herstel en continuïteit.",
+   "process": "Classificeer incidenten, activeer playbooks, communiceer, herstel en evalueer lessen.",
+   "technical": "Implementeer monitoring, kill switch, fallbackmodus, back-up, hersteltest en forensische logging.",
+   "structural": "Benoem incident commander, technische leads, communicatie en beslissingsbevoegden.",
+   "relational": "Oefen scenario's met business, IT, CISO, leverancier en externe partners."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R08",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Manage versions and changes of models, prompts, configurations, data and processes.",
+  "titleNl": "Beheer versies en wijzigingen van modellen, prompts, configuraties, data en processen.",
+  "evidence": "Version and change management",
+  "evidenceNl": "Versie- en wijzigingsbeheer",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "IT / Model owner",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "configuratie-inventaris, versiebeheer en wijzigingsgoedkeuring"
+  ],
+  "euArticlesNl": "Art. 11, 12, 18 en 43 — versie-, wijzigings-, documentatie- en conformiteitsbeheer",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO/IEC 42001:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht versiebeheer, wijzigingsclassificatie, testen, goedkeuring en rollback voor alle AI-componenten.",
+   "process": "Gebruik gecontroleerde changeflow van aanvraag tot release en post-implementation review.",
+   "technical": "Beheer code, prompts, configuratie, data en modellen in repositories met CI/CD en lineage.",
+   "structural": "Scheid ontwikkel-, goedkeurings- en productierollen; Change Board behandelt materiële wijzigingen.",
+   "relational": "Stem releases af met gebruikers, data owners, security, risk en leveranciers."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R09",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Periodically assess supplier performance, concentration risk, supply-chain risk and compliance.",
+  "titleNl": "Beoordeel periodiek leveranciersprestaties, concentratie-, ketenrisico en naleving.",
+  "evidence": "Supplier reviews and exit readiness",
+  "evidenceNl": "Leveranciersreviews en exit-readiness",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Procurement / Risk management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "leveranciersrapportages, contractrechten en ketenrisicocriteria"
+  ],
+  "euArticlesNl": "Art. 25, 26 en 72 — prestaties en risico’s van leveranciers en derde partijen blijven volgen",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO 31000:2018"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer beoordelingscriteria voor prestaties, concentratie, ketenrisico, compliance en exit-readiness.",
+   "process": "Voer periodieke leveranciersreviews uit en test alternatieven, overdraagbaarheid en exit.",
+   "technical": "Gebruik vendor-risktooling met SLA/KRI-data, afhankelijkheden, incidenten en contractalerts.",
+   "structural": "Wijs vendor owner en exit owner aan; Inkoop en Risk voeren gezamenlijke review uit.",
+   "relational": "Houd service reviews met leverancier, business, IT, Legal en kritieke ketenpartners."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R10",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Escalate deviations and follow corrective actions until demonstrable closure.",
+  "titleNl": "Escalereer afwijkingen en volg corrigerende maatregelen tot aantoonbare sluiting.",
+  "evidence": "Escalations, action log and closure evidence",
+  "evidenceNl": "Escalaties, actielog en sluitingsbewijs",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "AI governance function",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "afwijkingsregistratie, escalatiebevoegdheid en effectiviteitstoets"
+  ],
+  "euArticlesNl": "Art. 20, 72 en 73 — afwijkingen escaleren, corrigeren en opvolgen tot sluiting; incidentmelding waar vereist",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO 37301:2021"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg afwijkingsklassen, escalatietermijnen, corrigerende actie en sluitingscriteria vast.",
+   "process": "Registreer afwijkingen, analyseer oorzaak, wijs actie toe, verifieer effectiviteit en sluit formeel.",
+   "technical": "Gebruik centraal issue management met reminders, bewijs, aging en escalatiedashboard.",
+   "structural": "AI-governance bewaakt; actie-eigenaar herstelt; onafhankelijke functie valideert sluiting.",
+   "relational": "Bespreek blokkades en lessen tussen owners, controlfuncties en betrokken teams."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R11",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Have the governing body periodically confirm that AI use remains effective, efficient and acceptable.",
+  "titleNl": "Laat het bestuursorgaan periodiek bevestigen dat AI-gebruik effectief, efficiënt en aanvaardbaar blijft.",
+  "evidence": "Minutes, evaluation decision and adjustments",
+  "evidenceNl": "Notulen, evaluatiebesluit en bijsturing",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "board pack en besluitenlog"
+  ],
+  "euArticlesNl": "Art. 9, 17 en 72 — periodieke bestuursbevestiging ondersteunt risicobeheer, QMS en post-marketmonitoring",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO/IEC 23894:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht periodieke bestuursbevestiging dat AI effectief, efficiënt en aanvaardbaar blijft.",
+   "process": "Bundel prestaties, waarde, risico, compliance en stakeholderimpact in een besluitvormende review.",
+   "technical": "Genereer een traceerbaar board pack met trends, uitzonderingen, besluiten en acties.",
+   "structural": "Bestuursorgaan besluit; directie en owners attesteren juistheid van de onderbouwing.",
+   "relational": "Laat controlfuncties en relevante stakeholders vooraf input en onafhankelijke challenge leveren."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "R12",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Review policy when technology, legislation, risks, incidents and expectations change.",
+  "titleNl": "Herzie beleid bij veranderende technologie, wetgeving, risico's, incidenten en verwachtingen.",
+  "evidence": "Annual review and change history",
+  "evidenceNl": "Jaarreview en wijzigingshistoriek",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Governing body / Compliance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "actuele wetgeving, incidenten, auditbevindingen en veranderde context"
+  ],
+  "euArticlesNl": "Art. 9, 17 en 72 — beleid en beheersing aanpassen aan gewijzigde risico’s, techniek en regelgeving",
+  "otherIso": [
+   "ISO/IEC 38500:2015",
+   "ISO/IEC 23894:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg triggers en minimaal jaarlijkse review van AI-beleid vast.",
+   "process": "Scan veranderingen, voer impactanalyse uit, keur wijzigingen goed en communiceer ze.",
+   "technical": "Gebruik regulatory horizon scanning, wijzigingsregister, versiebeheer en taakmeldingen.",
+   "structural": "Compliance coördineert; beleidseigenaars wijzigen; bestuur keurt materiële aanpassingen goed.",
+   "relational": "Verzamel signalen van experts, toezichthouders, leveranciers, medewerkers en belanghebbenden."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M01",
+  "domain": "Context, portfolio & ecosystem",
+  "domainNl": "Context, portfolio & ecosysteem",
+  "title": "Analyse internal and external factors affecting the AI management system and its intended results.",
+  "titleNl": "Analyseer interne en externe factoren die het AI-managementsysteem en zijn beoogde resultaten beïnvloeden.",
+  "evidence": "Documented context analysis",
+  "evidenceNl": "Gedocumenteerde contextanalyse",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "AIMS manager / Compliance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "Strategische organisatiedoelen",
+   "informatie over interne en externe AI-ontwikkelingen"
+  ],
+  "euArticlesNl": "Art. 9 en 17 — contextfactoren meenemen in risicomanagement en kwaliteitsmanagement",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg contextcriteria, reviewfrequentie en wijzigingstriggers vast.",
+   "process": "Voer PESTLE/SWOT en periodieke contextreview uit.",
+   "technical": "Beheer contextfactoren en wijzigingen in een register.",
+   "structural": "AIMS-manager coördineert; leiding valideert.",
+   "relational": "Betrek juridische, technologie-, risico- en businessexperts."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M02",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Identify stakeholders and their relevant legal, contractual and voluntary requirements for AI.",
+  "titleNl": "Identificeer belanghebbenden en hun relevante wettelijke, contractuele en vrijwillige eisen voor AI.",
+  "evidence": "Stakeholder and requirements register",
+  "evidenceNl": "Stakeholder- en eisenregister",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Compliance / AIMS manager",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "stakeholderoverzicht, wettelijke en contractuele verplichtingen"
+  ],
+  "euArticlesNl": "Art. 2, 3, 9, 25 en 26 — belanghebbenden, operatorrollen en toepasselijke eisen bepalen",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Verplicht identificatie en actualisatie van belanghebbendeneisen.",
+   "process": "Onderhoud eisenregister en vertaal eisen naar controls.",
+   "technical": "Koppel eisen digitaal aan processen, risico’s en bewijs.",
+   "structural": "Compliance beheert; eigenaars bevestigen toepasselijkheid.",
+   "relational": "Valideer verwachtingen met medewerkers, klanten, leveranciers en toezichthouders."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M03",
+  "domain": "Context, portfolio & ecosystem",
+  "domainNl": "Context, portfolio & ecosysteem",
+  "title": "Determine and approve the boundaries, applicability, locations, processes and AI systems within the AIMS scope.",
+  "titleNl": "Bepaal en keur de grenzen, toepasselijkheid, locaties, processen en AI-systemen binnen de AIMS-scope goed.",
+  "evidence": "Approved AIMS scope statement",
+  "evidenceNl": "Goedgekeurde AIMS-scopeverklaring",
+  "level": "Strategic",
+  "mechanism": "Structure",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "lijst AI-systemen, locaties en uitbestede processen"
+  ],
+  "euArticlesNl": "Art. 2, 3 en 6 — organisatorische en systeemscope koppelen aan toepassingsgebied en classificatie",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg scopecriteria, interfaces en uitsluitingen vast.",
+   "process": "Beoordeel scope jaarlijks en bij materiële verandering.",
+   "technical": "Koppel scope aan AI-register, locaties en processen.",
+   "structural": "Bestuur keurt goed; AIMS-manager beheert.",
+   "relational": "Stem grenzen af met businessunits en ketenpartners."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M04",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Design, implement, maintain and improve the AIMS with documented processes and their interactions.",
+  "titleNl": "Ontwerp, implementeer, onderhoud en verbeter het AIMS met vastgelegde processen en hun onderlinge samenhang.",
+  "evidence": "AIMS process architecture and manual",
+  "evidenceNl": "AIMS-procesarchitectuur en handboek",
+  "level": "Managerial",
+  "mechanism": "Structure",
+  "owner": "AIMS manager",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "proceseigenaren, middelen en samenhang met bestaande managementsystemen"
+  ],
+  "euArticlesNl": "Art. 17 — kwaliteitsmanagementsysteem voor naleving van de AI Act",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Definieer het AIMS-procesmodel en beheersprincipes.",
+   "process": "Beschrijf procesinput, output, eigenaar, criteria en interacties.",
+   "technical": "Gebruik een beheersrepository met proces- en bewijslinks.",
+   "structural": "AIMS-manager is systeemeigenaar; proceseigenaars voeren uit.",
+   "relational": "Integreer met ISMS, privacy, kwaliteit en ERM."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M05",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Have leadership demonstrably take ownership of the effectiveness, integration, resourcing and continual improvement of the AIMS.",
+  "titleNl": "Laat de leiding aantoonbaar eigenaarschap nemen voor effectiviteit, integratie, middelen en continue verbetering van het AIMS.",
+  "evidence": "Executive decisions and management statement",
+  "evidenceNl": "Directiebesluiten en managementverklaring",
+  "level": "Strategic",
+  "mechanism": "Structure",
+  "owner": "Governing body / Executive management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "bestuurlijke sponsor, mandaat en budget voor integratie van het AIMS"
+  ],
+  "euArticlesNl": "Art. 16 en 17 — leidingseigenaarschap voor naleving en werking van het kwaliteitsmanagementsysteem",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg leiderschapsverplichtingen en rapportage vast.",
+   "process": "Agendeer AIMS-prestaties en besluiten in directiecyclus.",
+   "technical": "Lever periodiek boarddashboard en besluitenlog.",
+   "structural": "Directie is accountable en stelt middelen beschikbaar.",
+   "relational": "Controlfuncties leveren onafhankelijke challenge."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M06",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Establish an AI policy, align it with other policy frameworks, communicate it and review it periodically.",
+  "titleNl": "Stel een AI-beleid vast, stem het af op andere beleidskaders, communiceer het en herzie het periodiek.",
+  "evidence": "Approved and published AI policy",
+  "evidenceNl": "Goedgekeurd en gepubliceerd AI-beleid",
+  "level": "Strategic",
+  "mechanism": "Structure",
+  "owner": "Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "bestaande beleidskaders en goedkeurings-/communicatieroute"
+  ],
+  "euArticlesNl": "Art. 17 — beleid en procedures als onderdeel van het kwaliteitsmanagementsysteem",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Stel AI-beleid, afstemming en reviewtriggers vast.",
+   "process": "Keur goed, publiceer, bevestig kennisname en herzie.",
+   "technical": "Beheer versie, publicatie en attestaties centraal.",
+   "structural": "Bestuur is eigenaar; AIMS-manager onderhoudt.",
+   "relational": "Stem af met privacy, security, HR, inkoop en ondernemingsraad."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M07",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Assign AIMS roles, responsibilities and authorities and have performance reported to leadership.",
+  "titleNl": "Wijs AIMS-rollen, verantwoordelijkheden en bevoegdheden toe en laat over prestaties aan de leiding rapporteren.",
+  "evidence": "AIMS RACI and appointment decisions",
+  "evidenceNl": "AIMS-RACI en benoemingsbesluiten",
+  "level": "Managerial",
+  "mechanism": "Structure",
+  "owner": "Executive management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "AIMS-functies en rapportagelijn naar de leiding"
+  ],
+  "euArticlesNl": "Art. 16, 17 en 26 — rollen, bevoegdheden en rapportagelijnen voor provider/deployer",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Definieer rollen, bevoegdheden en rapportageplicht.",
+   "process": "Benoem rollen en toets conflicten of lacunes.",
+   "technical": "Onderhoud RACI en digitale autorisaties.",
+   "structural": "Directie benoemt; AIMS-manager monitort invulling.",
+   "relational": "Communiceer verantwoordelijkheden naar teams en derden."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M08",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Determine AIMS risks and opportunities and plan actions, integration into processes and evaluation of effectiveness.",
+  "titleNl": "Bepaal AIMS-risico’s en kansen en plan maatregelen, integratie in processen en evaluatie van effectiviteit.",
+  "evidence": "Risk and opportunity register with treatment plan",
+  "evidenceNl": "Risico- en kansenregister met behandelplan",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Risk management / AIMS manager",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "criteria voor AIMS-risico’s en kansen en proceseigenaren"
+  ],
+  "euArticlesNl": "Art. 9 en 17 — risico’s, kansen, maatregelen en effectiviteit binnen QMS en risicomanagement",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg aanpak voor AIMS-risico’s en kansen vast.",
+   "process": "Identificeer, behandel en evalueer maatregelen.",
+   "technical": "Gebruik gekoppeld risico-, actie- en bewijsregister.",
+   "structural": "Risicobeheer beheert methodiek; eigenaars behandelen.",
+   "relational": "Laat tweede lijn methodiek en restrisico challengen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M09",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Define and apply a repeatable AI risk assessment methodology with acceptance criteria and comparable results.",
+  "titleNl": "Definieer en pas een herhaalbare AI-risicobeoordelingsmethodiek toe met criteria voor acceptatie en vergelijkbare resultaten.",
+  "evidence": "Methodology, criteria and completed assessments",
+  "evidenceNl": "Methodiek, criteria en uitgevoerde beoordelingen",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Risk management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "acceptatiecriteria, risicobronnen en herhaalbare beoordelingsmethode"
+  ],
+  "euArticlesNl": "Art. 9 — continu en iteratief risicomanagement gedurende de hele levenscyclus",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Definieer criteria, schalen, acceptatie en frequentie.",
+   "process": "Voer beoordeling uit vóór inzet en bij wijzigingen.",
+   "technical": "Gebruik versiegestuurd risicosjabloon met scoring.",
+   "structural": "Risicobeheer bewaakt consistentie; owner levert input.",
+   "relational": "Betrek domein-, data-, security- en impactexperts."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M10",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Select risk treatment options and controls, justify exclusions and obtain approval of residual risk.",
+  "titleNl": "Selecteer risicobehandelopties en beheersmaatregelen, motiveer uitsluitingen en verkrijg goedkeuring voor restrisico.",
+  "evidence": "Risk treatment plan and residual-risk approval",
+  "evidenceNl": "Risicobehandelplan en restrisicogoedkeuring",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Risk management / Compliance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "beschikbare behandelopties, controlselectie en bevoegd restrisicobesluit"
+  ],
+  "euArticlesNl": "Art. 9 en 17 — risicobehandeling, beheersmaatregelen en documentatie van restrisico",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Verplicht behandelplan, controlselectie en restrisicogoedkeuring.",
+   "process": "Vergelijk controls met Annex A en volg acties op.",
+   "technical": "Beheer SoA, behandelplan en acceptaties gekoppeld.",
+   "structural": "Risk owner accepteert; AIMS-manager controleert volledigheid.",
+   "relational": "Stem maatregelen af met leveranciers en getroffen functies."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M11",
+  "domain": "Strategy, value & investment",
+  "domainNl": "Strategie, waarde & investeringen",
+  "title": "Set measurable AI objectives with owner, resources, planning, measurement method and evaluation moment.",
+  "titleNl": "Stel meetbare AI-doelstellingen vast met verantwoordelijke, middelen, planning, meetwijze en evaluatiemoment.",
+  "evidence": "AIMS objectives register",
+  "evidenceNl": "AIMS-doelstellingenregister",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Executive management / AIMS manager",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "meetbare doelen, middelen, verantwoordelijken en evaluatieritme"
+  ],
+  "euArticlesNl": "Art. 9, 15 en 17 — meetbare doelstellingen voor risico, prestaties en QMS-effectiviteit",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg eisen aan meetbare doelstellingen vast.",
+   "process": "Vertaal beleid naar targets, acties, eigenaars en reviews.",
+   "technical": "Volg doelwaarden en voortgang in dashboard.",
+   "structural": "Directie stelt vast; AIMS-manager rapporteert.",
+   "relational": "Laat proceseigenaars haalbaarheid en middelen bevestigen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M12",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Plan changes to the AIMS in a controlled way, considering purpose, consequences, integrity, resources and responsibilities.",
+  "titleNl": "Plan wijzigingen aan het AIMS beheerst, rekening houdend met doel, gevolgen, integriteit, middelen en verantwoordelijkheden.",
+  "evidence": "AIMS change procedure and change records",
+  "evidenceNl": "AIMS-wijzigingsprocedure en change records",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Change board / AIMS manager",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "wijzigingsverzoeken, impactanalyse en goedkeuringsbevoegdheid"
+  ],
+  "euArticlesNl": "Art. 9, 17 en 43 — beheerste wijzigingen en toets op substantiële wijziging/conformiteitsimpact",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Definieer AIMS-changecriteria en goedkeuring.",
+   "process": "Beoordeel impact, middelen, rollen en integriteit vooraf.",
+   "technical": "Gebruik change workflow met audittrail.",
+   "structural": "Change board besluit; AIMS-manager bewaakt systeemimpact.",
+   "relational": "Raadpleeg betrokken proces- en controle-eigenaars."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M13",
+  "domain": "Strategy, value & investment",
+  "domainNl": "Strategie, waarde & investeringen",
+  "title": "Determine and document the data, tooling, infrastructure, financial and human resources needed for the AIMS and AI systems.",
+  "titleNl": "Bepaal en documenteer benodigde data-, tooling-, infrastructuur-, financiële en personele middelen voor het AIMS en AI-systemen.",
+  "evidence": "Resource plan and resource register",
+  "evidenceNl": "Middelenplan en resourceregister",
+  "level": "Managerial",
+  "mechanism": "Structure",
+  "owner": "Executive management / Architecture",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "middeleninventaris, capaciteit, budget en akkoord van directie"
+  ],
+  "euArticlesNl": "Art. 15, 17 en 26 — voldoende technische, personele en organisatorische middelen",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg capaciteits- en documentatie-eisen per middeltype vast.",
+   "process": "Plan capaciteit en toets beschikbaarheid en geschiktheid.",
+   "technical": "Onderhoud inventaris van data, tools, compute en mensen.",
+   "structural": "Directie financiert; architectuur en HR beheren.",
+   "relational": "Maak afhankelijkheden met leveranciers expliciet."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M14",
+  "domain": "Culture, values & people",
+  "domainNl": "Cultuur, waarden & mensen",
+  "title": "Determine competences, close gaps and evaluate the effectiveness of training and other development actions.",
+  "titleNl": "Bepaal competenties, sluit lacunes en evalueer de doeltreffendheid van opleiding en andere ontwikkelacties.",
+  "evidence": "Competence matrix, training evidence and evaluation",
+  "evidenceNl": "Competentiematrix, opleidingsbewijs en evaluatie",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "HR / L&D",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "competentieprofielen, opleidingsplan en effectiviteitstoets"
+  ],
+  "euArticlesNl": "Art. 4, 14 en 17 — competentie en AI-geletterdheid aantoonbaar borgen",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Definieer competentieprofielen en bewijsvereisten.",
+   "process": "Voer gapanalyse, opleiding en effectiviteitstoets uit.",
+   "technical": "Gebruik LMS en competentiedashboard.",
+   "structural": "HR beheert; lijnmanager bevestigt bekwaamheid.",
+   "relational": "Gebruik vakexperts en erkende opleiders waar passend."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M15",
+  "domain": "Culture, values & people",
+  "domainNl": "Cultuur, waarden & mensen",
+  "title": "Ensure staff are aware of the AI policy, their contribution, the benefits and the consequences of non-conformity.",
+  "titleNl": "Zorg dat medewerkers zich bewust zijn van AI-beleid, hun bijdrage, baten en gevolgen van niet-conform handelen.",
+  "evidence": "Awareness plan and test results",
+  "evidenceNl": "Awarenessplan en toetsresultaten",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "HR / Communications",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "doelgroepen, communicatiemiddelen en bevestiging van begrip"
+  ],
+  "euArticlesNl": "Art. 4 en 17 — bewustzijn van beleid, verantwoordelijkheden en gevolgen van niet-naleving",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Stel awarenessdoelen en doelgroepen vast.",
+   "process": "Communiceer beleid en toets begrip periodiek.",
+   "technical": "Registreer deelname, toetsen en herinneringen.",
+   "structural": "HR en communicatie voeren uit; managers bekrachtigen.",
+   "relational": "Gebruik meldingen en praktijkcases uit de organisatie."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M16",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Determine what, when, with whom, by whom and through which channel the AIMS is communicated internally and externally.",
+  "titleNl": "Bepaal wat, wanneer, met wie, door wie en via welk kanaal intern en extern over het AIMS wordt gecommuniceerd.",
+  "evidence": "Communication matrix and calendar",
+  "evidenceNl": "Communicatiematrix en communicatiekalender",
+  "level": "Managerial",
+  "mechanism": "Relational",
+  "owner": "AIMS manager / Communications",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "doelgroepen, rapportageverplichtingen, kanalen en woordvoerders"
+  ],
+  "euArticlesNl": "Art. 13, 20, 26, 50 en 73 — interne/externe communicatie, gebruikersinformatie en incidentmelding",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg interne en externe communicatiecriteria vast.",
+   "process": "Plan boodschap, doelgroep, timing, eigenaar en kanaal.",
+   "technical": "Beheer communicatiekalender en goedkeuringsworkflow.",
+   "structural": "Communicatie coördineert; inhoudseigenaars accorderen.",
+   "relational": "Stem incident- en toezichthoudercommunicatie vooraf af."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M17",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Manage creation, approval, versioning, access, distribution, retention and disposal of AIMS documentation and records.",
+  "titleNl": "Beheer aanmaak, goedkeuring, versie, toegang, distributie, bewaring en verwijdering van AIMS-documentatie en registraties.",
+  "evidence": "Document control procedure and master list",
+  "evidenceNl": "Procedure documentbeheer en masterlijst",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Document control / AIMS manager",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "documenteigenaren, versiebeheer, toegangsrechten en bewaarbeleid"
+  ],
+  "euArticlesNl": "Art. 11, 12, 18 en 17 — beheer en bewaring van documentatie, registraties en logs",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Stel regels voor documentcreatie en -beheersing vast.",
+   "process": "Review, keur goed, publiceer, archiveer en vernietig gecontroleerd.",
+   "technical": "Gebruik DMS met versiebeheer, rechten en retentie.",
+   "structural": "Document control beheert; eigenaars actualiseren.",
+   "relational": "Maak externe documenten en leveranciersbewijs beheersbaar."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M18",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Plan and control operational AIMS processes, criteria, evidence and outsourced processes; control planned and unplanned changes.",
+  "titleNl": "Plan en beheers de operationele AIMS-processen, criteria, bewijs en uitbestede processen; beheers geplande en ongeplande wijzigingen.",
+  "evidence": "Operational control plan and execution records",
+  "evidenceNl": "Operationeel beheersplan en uitvoeringsrecords",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Operations / AIMS manager",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "operationele criteria, uitbestedingsafspraken en wijzigingslog"
+  ],
+  "euArticlesNl": "Art. 17 en 25 — operationele beheersing, wijzigingen en uitbestede processen",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Definieer operationele criteria en beheersing van uitbesteding.",
+   "process": "Plan uitvoering, verzamel bewijs en beheer afwijkingen/wijzigingen.",
+   "technical": "Automatiseer gates, monitoring en bewijsopslag.",
+   "structural": "Operations voert uit; AIMS-manager houdt toezicht.",
+   "relational": "Leg afspraken met uitbestede partijen contractueel vast."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M19",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Establish a formal process for AI system impact assessments with triggers, criteria, roles and re-assessment.",
+  "titleNl": "Stel een formeel proces vast voor AI-systeemimpactbeoordelingen met triggers, criteria, rollen en herbeoordeling.",
+  "evidence": "Approved impact methodology and template",
+  "evidenceNl": "Goedgekeurde impactmethodiek en sjabloon",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Compliance / Risk management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "impactcriteria, triggers en bevoegde beoordelaars"
+  ],
+  "euArticlesNl": "Art. 9 en 27 — formeel proces voor risico- en grondrechteneffectbeoordelingen",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg impactcategorieën, drempels en herbeoordeling vast.",
+   "process": "Screen use cases en voer beoordeling volgens trigger uit.",
+   "technical": "Gebruik workflow met verplichte velden en goedkeuring.",
+   "structural": "Compliance beheert; risk en business beoordelen.",
+   "relational": "Betrek getroffen groepen of vertegenwoordigers waar passend."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M20",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Perform and document impact assessments for individuals, groups and society before deployment and upon material changes.",
+  "titleNl": "Voer en documenteer impactbeoordelingen uit voor personen, groepen en samenleving vóór inzet en bij materiële wijzigingen.",
+  "evidence": "Impact assessments and approval decisions",
+  "evidenceNl": "Impactbeoordelingen en goedkeuringsbesluiten",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Business owner / Compliance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "relevante gegevens, betrokken groepen en review bij wijziging"
+  ],
+  "euArticlesNl": "Art. 9 en 27 — gedocumenteerde beoordeling van impact op personen, groepen en grondrechten",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Verplicht beoordeling van individuele, groeps- en maatschappelijke impact.",
+   "process": "Documenteer context, effecten, maatregelen, besluit en opvolging.",
+   "technical": "Koppel impactrecord aan use case en wijzigingshistoriek.",
+   "structural": "Business owner levert; Compliance keurt methodisch goed.",
+   "relational": "Laat relevante stakeholders de uitkomsten challengen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M21",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Determine what is monitored and measured, with methods, frequency, analysis and evaluation of AIMS performance and effectiveness.",
+  "titleNl": "Bepaal wat wordt gemonitord en gemeten, met methoden, frequentie, analyse en evaluatie van AIMS-prestaties en effectiviteit.",
+  "evidence": "Measurement plan, KPI results and evaluations",
+  "evidenceNl": "Meetplan, KPI-resultaten en evaluaties",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "AIMS manager",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 2,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "betrouwbare meetbronnen, evaluatiemethode en rapportagecadans"
+  ],
+  "euArticlesNl": "Art. 9, 15, 17 en 72 — monitoring, meting en evaluatie van prestaties en effectiviteit",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg KPI/KRI, methode, bron, frequentie en criteria vast.",
+   "process": "Meet, analyseer, rapporteer en stuur bij.",
+   "technical": "Gebruik dashboard met herleidbare brongegevens.",
+   "structural": "AIMS-manager rapporteert; eigenaars verklaren afwijkingen.",
+   "relational": "Bespreek trends met directie en controlfuncties."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M22",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Plan and perform independent internal audits on conformity and effective operation, with objective auditors and follow-up.",
+  "titleNl": "Plan en voer onafhankelijke interne audits uit op normconformiteit en effectieve werking, met objectieve auditors en opvolging.",
+  "evidence": "Audit programme, audit reports and follow-up log",
+  "evidenceNl": "Auditprogramma, auditrapporten en opvolglog",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Internal audit",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "objectieve auditors, auditcriteria en toegang tot bewijs"
+  ],
+  "euArticlesNl": "Art. 17 en 43 — interne audit en conformiteitsbeoordeling ondersteunen",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg auditcriteria, scope, frequentie en onafhankelijkheid vast.",
+   "process": "Plan audits, verzamel bewijs, rapporteer bevindingen en volg op.",
+   "technical": "Gebruik auditmanagementtool en bevindingenregister.",
+   "structural": "Interne audit is onafhankelijk; management sluit acties.",
+   "relational": "Schakel specialistische auditoren in voor technische domeinen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M23",
+  "domain": "Governance & accountability",
+  "domainNl": "Governance & verantwoording",
+  "title": "Have leadership periodically review the AIMS for suitability, adequacy and effectiveness and decide on changes and resources.",
+  "titleNl": "Laat de leiding het AIMS periodiek beoordelen op geschiktheid, toereikendheid en effectiviteit en besluiten over wijzigingen en middelen.",
+  "evidence": "Management review agenda, inputs, minutes and decisions",
+  "evidenceNl": "Managementreviewagenda, input, notulen en besluiten",
+  "level": "Strategic",
+  "mechanism": "Process",
+  "owner": "Governing body / Executive management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "prestaties, audits, wijzigingen, risico’s en besluitbevoegde leiding"
+  ],
+  "euArticlesNl": "Art. 17 — managementreview van geschiktheid en effectiviteit van het kwaliteitsmanagementsysteem",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Definieer verplichte reviewinput en besluitoutput.",
+   "process": "Bereid input voor, voer review uit en volg besluiten op.",
+   "technical": "Genereer boardpack met trends, wijzigingen en open acties.",
+   "structural": "Directie beoordeelt; AIMS-manager bereidt voor.",
+   "relational": "Laat relevante eigenaars en controlfuncties deelnemen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M24",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Manage nonconformities: correct, investigate causes, determine similar risks, implement actions and verify effectiveness.",
+  "titleNl": "Beheers afwijkingen: corrigeer, onderzoek oorzaken, bepaal vergelijkbare risico’s, voer acties uit en verifieer effectiviteit.",
+  "evidence": "Nonconformity and CAPA register",
+  "evidenceNl": "Afwijkingen- en CAPA-register",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "AIMS manager / Process owner",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "afwijkingsbewijs, oorzaakanalyse, verantwoordelijke en hertoets"
+  ],
+  "euArticlesNl": "Art. 20 en 17 — non-conformiteiten corrigeren, oorzaken onderzoeken en effectiviteit verifiëren",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg CAPA-proces, termijnen en effectiviteitstoets vast.",
+   "process": "Beheers incident, oorzaak, correctie, actie en verificatie.",
+   "technical": "Gebruik CAPA-workflow met escalaties en bewijs.",
+   "structural": "Proceseigenaar corrigeert; AIMS-manager verifieert.",
+   "relational": "Deel leerpunten met vergelijkbare teams en leveranciers."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M25",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Identify, prioritise and realise demonstrable improvements to the suitability, adequacy and effectiveness of the AIMS.",
+  "titleNl": "Identificeer, prioriteer en realiseer aantoonbare verbeteringen van geschiktheid, toereikendheid en effectiviteit van het AIMS.",
+  "evidence": "Improvement register and effectiveness measurements",
+  "evidenceNl": "Verbeterregister en effectiviteitsmetingen",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "AIMS manager",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "geprioriteerde verbeterkansen, middelen en effectmeting"
+  ],
+  "euArticlesNl": "Art. 17 en 72 — continue verbetering op basis van QMS- en post-marketresultaten",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Leg bronnen, selectiecriteria en governance van verbetering vast.",
+   "process": "Prioriteer kansen, implementeer en meet effect.",
+   "technical": "Onderhoud verbeterbacklog met baten en status.",
+   "structural": "AIMS-manager beheert; directie prioriteert middelen.",
+   "relational": "Benut audits, incidenten, feedback en benchmarkinzichten."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "M26",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Maintain a Statement of Applicability with selected Annex A controls, implementation status and justification for inclusion or exclusion.",
+  "titleNl": "Onderhoud een Statement of Applicability met geselecteerde Annex A-controls, implementatiestatus en motivering voor opname of uitsluiting.",
+  "evidence": "Approved Statement of Applicability",
+  "evidenceNl": "Goedgekeurde Statement of Applicability",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "AIMS manager / Risk management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "actuele Annex A-controlbeoordeling, uitsluitingsmotivering en implementatiebewijs"
+  ],
+  "euArticlesNl": "Ondersteunend aan art. 17 — SoA is geen AI-Act-eis, maar kan gekozen beheersmaatregelen en uitsluitingen onderbouwen",
+  "otherIso": [],
+  "mechanismsNl": {
+   "policy": "Verplicht actuele SoA met opname- en uitsluitingsmotivering.",
+   "process": "Beoordeel alle Annex A-controls en actualiseer bij wijzigingen.",
+   "technical": "Koppel SoA aan risico’s, controls, eigenaars en bewijs.",
+   "structural": "AIMS-manager beheert; risk en directie keuren goed.",
+   "relational": "Laat interne audit volledigheid en consistentie toetsen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "N01",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Create a current and target AI RMF profile per AI application and prioritise gaps by context and risk tolerance.",
+  "titleNl": "Stel per AI-toepassing een huidig en gewenst AI RMF-profiel op en prioriteer verschillen volgens context en risicotolerantie.",
+  "evidence": "Current/target profile and prioritised roadmap",
+  "evidenceNl": "Huidig/doelprofiel en geprioriteerde roadmap",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "AI governance function / Risk management",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "actuele en gewenste risicoprofielen per use case"
+  ],
+  "euArticlesNl": "Art. 9 en 17 — huidig/gewenst risicoprofiel ondersteunt risicomanagement en QMS-planning",
+  "otherIso": [
+   "ISO/IEC 23894:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg profielmethodiek, risicotolerantie en prioriteringsregels vast.",
+   "process": "Maak huidig/doelprofiel, bepaal gaps en herzie bij contextwijziging.",
+   "technical": "Gebruik gekoppelde profiel-, risico- en roadmapregistratie.",
+   "structural": "AI-governance beheert; risk valideert; directie prioriteert.",
+   "relational": "Stem profiel af met business, techniek en controlfuncties."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "N02",
+  "domain": "Culture, values & people",
+  "domainNl": "Cultuur, waarden & mensen",
+  "title": "Ensure multidisciplinary and diverse perspectives in teams that identify, measure and decide on AI risks.",
+  "titleNl": "Borg multidisciplinaire en diverse perspectieven in teams die AI-risico’s identificeren, meten en besluiten.",
+  "evidence": "Team composition, competence matrix and review minutes",
+  "evidenceNl": "Teamsamenstelling, competentiematrix en reviewverslagen",
+  "level": "Managerial",
+  "mechanism": "Relational",
+  "owner": "HR / AI governance function",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "toegang tot diverse disciplines en duidelijke beslis-/escalatieregels"
+  ],
+  "euArticlesNl": "Art. 4, 9, 14 en 27 — multidisciplinaire competentie, menselijke controle en grondrechtenperspectief",
+  "otherIso": [
+   "ISO/IEC 42001:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel eisen aan disciplines, diversiteit en onafhankelijke inbreng.",
+   "process": "Controleer teamsamenstelling bij intake, review en escalatie.",
+   "technical": "Registreer rollen, expertise en belangenconflicten.",
+   "structural": "HR en AI-governance bewaken samenstelling.",
+   "relational": "Betrek domeinexperts en vertegenwoordigers van getroffen groepen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "N03",
+  "domain": "Decision-making & human oversight",
+  "domainNl": "Besluitvorming & menselijk toezicht",
+  "title": "Document per use case the relevant trustworthiness characteristics and record trade-offs between validity, safety, security, transparency, privacy and fairness.",
+  "titleNl": "Documenteer per use case de kenmerken van betrouwbare AI die relevant zijn en leg afwegingen tussen validiteit, veiligheid, beveiliging, transparantie, privacy en fairness vast.",
+  "evidence": "Trustworthiness profile and trade-off decisions",
+  "evidenceNl": "Trustworthiness-profiel en trade-offbesluiten",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Business owner / Model risk",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "afweging van kwaliteitseisen en betrokken stakeholderbelangen"
+  ],
+  "euArticlesNl": "Art. 9, 13 en 15 — afwegingen rond nauwkeurigheid, veiligheid, transparantie, privacy en fairness documenteren",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO/IEC TR 24028"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer trustworthiness-kenmerken en regels voor afwegingen.",
+   "process": "Bepaal relevantie, meetbaarheid en trade-offs per use case.",
+   "technical": "Gebruik een traceerbaar kenmerken- en besluitenregister.",
+   "structural": "Model risk faciliteert; business owner accepteert keuzes.",
+   "relational": "Laat privacy, security, fairness en safety gezamenlijk challengen."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "N04",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Design a mix of quantitative and qualitative measurement methods with thresholds, assumptions, uncertainty and limitations.",
+  "titleNl": "Ontwerp een combinatie van kwantitatieve en kwalitatieve meetmethoden met drempels, aannames, onzekerheid en beperkingen.",
+  "evidence": "Measurement plan and metrics catalogue",
+  "evidenceNl": "Meetplan en metriekcatalogus",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Model risk / Data science",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "kwalitatieve en kwantitatieve meetbronnen, aannames en drempels"
+  ],
+  "euArticlesNl": "Art. 9 en 15 — passende meetmethoden, drempels, aannames en beperkingen voor risico en prestaties",
+  "otherIso": [
+   "ISO/IEC 23894:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg eisen aan metrics, aannames, grenzen en onzekerheid vast.",
+   "process": "Selecteer en valideer kwantitatieve en kwalitatieve methoden.",
+   "technical": "Beheer metriekcatalogus, versies, drempels en resultaten.",
+   "structural": "Model risk keurt methoden goed; data science voert uit.",
+   "relational": "Toets begrijpelijkheid bij gebruikers en besluitvormers."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "N05",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Perform independent TEVV under representative conditions, including benchmark, stress-test and red-team activities according to risk.",
+  "titleNl": "Voer onafhankelijke TEVV uit in representatieve omstandigheden, inclusief benchmark-, stresstest- en red-teamactiviteiten naar risico.",
+  "evidence": "Independent TEVV report and findings",
+  "evidenceNl": "Onafhankelijk TEVV-rapport en bevindingen",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Model risk / CISO / Internal audit",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "onafhankelijke testers, representatieve testomgeving en testplan"
+  ],
+  "euArticlesNl": "Art. 9, 15 en 43 — onafhankelijke TEVV, benchmark-, stress- en red-teamtests ondersteunen conformiteit",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO/IEC TR 24029-1"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht onafhankelijke en risicogebaseerde TEVV.",
+   "process": "Plan benchmark, stress-, scenario- en red-teamtests.",
+   "technical": "Gebruik reproduceerbare testomgevingen en bevindingenlog.",
+   "structural": "Onafhankelijke validator voert uit; owner herstelt.",
+   "relational": "Schakel externe specialisten in voor hoog-impactscenario’s."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "N06",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Quantify and communicate uncertainty, error margins, known limitations and conditions under which measurements are unreliable.",
+  "titleNl": "Kwantificeer en communiceer onzekerheid, foutmarges, bekende beperkingen en omstandigheden waarin metingen niet betrouwbaar zijn.",
+  "evidence": "Uncertainty analysis and user information",
+  "evidenceNl": "Onzekerheidsanalyse en gebruikersinformatie",
+  "level": "Technical",
+  "mechanism": "Process",
+  "owner": "Data science / Model owner",
+  "inScope": false,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "meetresultaten, foutmarges en afgestemde communicatiebehoefte"
+  ],
+  "euArticlesNl": "Art. 13 en 15 — onzekerheid, foutmarges, bekende beperkingen en relevante prestatieniveaus communiceren",
+  "otherIso": [
+   "ISO/IEC TR 24028",
+   "ISO/IEC TR 24368"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel eisen aan onzekerheidsanalyse en communicatie.",
+   "process": "Bereken foutmarges en test grenzen en contextverschuivingen.",
+   "technical": "Monitor confidence, kalibratie en out-of-distribution signalen.",
+   "structural": "Data science analyseert; model owner communiceert.",
+   "relational": "Valideer interpretatie met gebruikers en risicofunctie."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "N07",
+  "domain": "Compliance & stakeholders",
+  "domainNl": "Compliance & belanghebbenden",
+  "title": "Systematically collect feedback from users, affected people and external experts and demonstrably process it in assessment and improvement.",
+  "titleNl": "Verzamel structureel feedback van gebruikers, getroffen personen en externe deskundigen en verwerk deze aantoonbaar in beoordeling en verbetering.",
+  "evidence": "Feedback register, analysis and change decisions",
+  "evidenceNl": "Feedbackregister, analyse en wijzigingsbesluiten",
+  "level": "Managerial",
+  "mechanism": "Relational",
+  "owner": "Business owner / Compliance",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 3,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "feedbackkanalen, toestemming/privacykader en verbeterproces"
+  ],
+  "euArticlesNl": "Art. 9, 27 en 72 — feedback van gebruikers en getroffen personen verwerken in beoordeling en verbetering",
+  "otherIso": [
+   "ISO 37000:2021",
+   "ISO/IEC TR 24368"
+  ],
+  "mechanismsNl": {
+   "policy": "Verplicht inclusieve feedback en aantoonbare opvolging.",
+   "process": "Verzamel, categoriseer, beoordeel en sluit feedback.",
+   "technical": "Gebruik feedbackportaal en gekoppeld actie-/besluitenlog.",
+   "structural": "Business owner beheert; Compliance bewaakt opvolging.",
+   "relational": "Betrek gebruikers, getroffen personen en onafhankelijke experts."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "N08",
+  "domain": "Strategy, value & investment",
+  "domainNl": "Strategie, waarde & investeringen",
+  "title": "Compare and prioritise measured AI risks against each other and against non-AI alternatives, benefits and organisational risks.",
+  "titleNl": "Vergelijk en prioriteer gemeten AI-risico’s onderling en ten opzichte van niet-AI-alternatieven, baten en organisatierisico’s.",
+  "evidence": "Prioritised risk picture and decision memo",
+  "evidenceNl": "Geprioriteerd risicobeeld en besluitnota",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Risk management / Portfolio",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "vergelijkbare risico- en bateninformatie en prioriteitscriteria"
+  ],
+  "euArticlesNl": "Art. 9 en 27 — risico’s prioriteren tegenover baten, alternatieven en grondrechtenimpact",
+  "otherIso": [
+   "ISO/IEC 23894:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Leg vergelijkings- en prioriteringscriteria vast.",
+   "process": "Vergelijk kans, impact, onzekerheid, baten en alternatieven.",
+   "technical": "Gebruik portfolio-risicomatrix en beslisdashboard.",
+   "structural": "Risicobeheer adviseert; portfolio/directie prioriteert.",
+   "relational": "Challenge aannames met finance, ethiek en domeinexperts."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "N09",
+  "domain": "Risk, performance & assurance",
+  "domainNl": "Risico, prestaties & toezicht",
+  "title": "Manage residual risk explicitly through acceptance, mitigation, transfer, avoidance, pausing or decommissioning, and verify the response.",
+  "titleNl": "Beheer restrisico expliciet met acceptatie, mitigatie, overdracht, vermijden, pauzeren of buitengebruikstelling en verifieer de respons.",
+  "evidence": "Risk decision, treatment plan and effectiveness check",
+  "evidenceNl": "Risicobesluit, behandelplan en effectiviteitstoets",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Risk owner / Governing body",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "bevoegde risicoacceptatie en controle van effectiviteit"
+  ],
+  "euArticlesNl": "Art. 9, 20 en 17 — restrisico behandelen, corrigerende acties uitvoeren en effectiviteit verifiëren",
+  "otherIso": [
+   "ISO/IEC 23894:2023"
+  ],
+  "mechanismsNl": {
+   "policy": "Definieer toegestane responsopties en acceptatiebevoegdheid.",
+   "process": "Selecteer respons, voer uit en verifieer restrisico.",
+   "technical": "Volg maatregelen, deadlines en effectiviteit digitaal.",
+   "structural": "Risk owner besluit; bestuur accepteert hoog restrisico.",
+   "relational": "Communiceer relevante maatregelen aan partners en stakeholders."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ },
+ {
+  "id": "N10",
+  "domain": "Context, portfolio & ecosystem",
+  "domainNl": "Context, portfolio & ecosysteem",
+  "title": "Continuously assess risks of third-party models, data, software and services and maintain alternatives and contingency plans for failure or shortcomings.",
+  "titleNl": "Beoordeel risico’s van modellen, data, software en diensten van derden continu en onderhoud alternatieven en noodplannen bij uitval of tekortkoming.",
+  "evidence": "Third-party risk assessment and tested contingency plan",
+  "evidenceNl": "Derdenrisicobeoordeling en getest contingentieplan",
+  "level": "Managerial",
+  "mechanism": "Process",
+  "owner": "Procurement / Risk management / IT",
+  "inScope": true,
+  "minOrgSize": "small",
+  "baseEffort": 4,
+  "effortSource": "placeholder-heuristic",
+  "externalPrerequisitesNl": [
+   "leveranciersgegevens, alternatieve aanbieders en getest noodplan"
+  ],
+  "euArticlesNl": "Art. 25, 26 en 72 — risico’s van derden, waardeketen en continuïteit monitoren",
+  "otherIso": [
+   "ISO/IEC 23894:2023",
+   "ISO 31000:2018"
+  ],
+  "mechanismsNl": {
+   "policy": "Stel eisen aan continue derdenbeoordeling en contingentie.",
+   "process": "Monitor leverancier, test exit en activeer alternatief bij drempel.",
+   "technical": "Gebruik leveranciersdashboard, dependency map en exit-runbook.",
+   "structural": "Inkoop beheert contract; risk/IT toetsen continuïteit.",
+   "relational": "Voer gezamenlijke oefeningen uit met kritieke leveranciers."
+  },
+  "source": "imported",
+  "validated": false,
+  "translationStatus": "claude-draft"
+ }
+]

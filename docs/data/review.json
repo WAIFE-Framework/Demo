@@ -1,0 +1,188 @@
+[
+ {
+  "actionId": "M26",
+  "column": "ISO 42001",
+  "text": "6.1.3(d)",
+  "reason": "sub-item reference linked at 6.1.3"
+ },
+ {
+  "actionId": "M26",
+  "column": "ISO 42001",
+  "text": "Annex A",
+  "reason": "no matching clause/control (e.g. generic reference)"
+ },
+ {
+  "actionId": "G02",
+  "column": "EU AI Act",
+  "text": "Art. 16, 17 en 26 — verantwoordelijkheden van provider/deployer en governance binnen het k",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "G03",
+  "column": "EU AI Act",
+  "text": "Art. 16(a), 17 en 26 — aantoonbare verantwoordelijkheid voor naleving, gebruik en toezicht",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "G05",
+  "column": "EU AI Act",
+  "text": "Art. 4 en 26 — AI-geletterdheid en bekwaam menselijk toezicht bij de deployer",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "G06",
+  "column": "EU AI Act",
+  "text": "Art. 9, 17, 26 en 72 — periodieke risicobeoordeling, managementreview en post-marketmonito",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "G07",
+  "column": "EU AI Act",
+  "text": "Art. 17 en 26 — integratie in kwaliteits-, risico-, compliance-, log- en toezichtprocessen",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "G08",
+  "column": "EU AI Act",
+  "text": "Art. 9, 15, 17 en 72 — indicatoren voor risico, prestaties, robuustheid en post-marketmoni",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "C04",
+  "column": "EU AI Act",
+  "text": "Art. 6, 9, 13 en 15 — classificatie en beoordeling van autonomie, beperkingen, robuustheid",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "C05",
+  "column": "EU AI Act",
+  "text": "Art. 9, 13 en 15 — bekende risico’s, beperkingen, prestaties en redelijk voorzienbaar misb",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "S02",
+  "column": "EU AI Act",
+  "text": "Art. 9 en 15 — baten, risico’s, prestatiecriteria en ongewenste effecten vooraf beoordelen",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "S04",
+  "column": "EU AI Act",
+  "text": "Art. 9 en 72 — baten, risico’s en prestaties gedurende de levenscyclus blijven beoordelen",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "S05",
+  "column": "EU AI Act",
+  "text": "Art. 9, 20, 72 en 73 — criteria voor correctie, terugtrekking, uitschakeling en incidentre",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "A02",
+  "column": "EU AI Act",
+  "text": "Art. 10, 16 en 26 — verantwoordelijkheden voor data governance bij provider en deployer",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "A05",
+  "column": "EU AI Act",
+  "text": "Art. 10, 18 en 78 — passend gegevensbeheer, documentbewaring en vertrouwelijkheid",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "A06",
+  "column": "EU AI Act",
+  "text": "Art. 9, 10, 15 en 72 — datadrift, kwaliteitsverlies en gewijzigde gebruikscontext monitore",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "V05",
+  "column": "EU AI Act",
+  "text": "Art. 20, 26, 72 en 73 — interne melding, opvolging en escalatie van risico’s en ernstige i",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "P02",
+  "column": "EU AI Act",
+  "text": "Art. 9, 16, 17 en 26 — verplichtingen vertalen naar controles, acceptatiecriteria en eigen",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "P04",
+  "column": "EU AI Act",
+  "text": "Art. 43 en 17 — conformiteitsbeoordeling en onafhankelijke assurance/audit naar toepasseli",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "R11",
+  "column": "EU AI Act",
+  "text": "Art. 9, 17 en 72 — periodieke bestuursbevestiging ondersteunt risicobeheer, QMS en post-ma",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "R12",
+  "column": "EU AI Act",
+  "text": "Art. 9, 17 en 72 — beleid en beheersing aanpassen aan gewijzigde risico’s, techniek en reg",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "N01",
+  "column": "EU AI Act",
+  "text": "Art. 9 en 17 — huidig/gewenst risicoprofiel ondersteunt risicomanagement en QMS-planning",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "N02",
+  "column": "EU AI Act",
+  "text": "Art. 4, 9, 14 en 27 — multidisciplinaire competentie, menselijke controle en grondrechtenp",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "N03",
+  "column": "EU AI Act",
+  "text": "Art. 9, 13 en 15 — afwegingen rond nauwkeurigheid, veiligheid, transparantie, privacy en f",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "N04",
+  "column": "EU AI Act",
+  "text": "Art. 9 en 15 — passende meetmethoden, drempels, aannames en beperkingen voor risico en pre",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "N05",
+  "column": "EU AI Act",
+  "text": "Art. 9, 15 en 43 — onafhankelijke TEVV, benchmark-, stress- en red-teamtests ondersteunen ",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "N06",
+  "column": "EU AI Act",
+  "text": "Art. 13 en 15 — onzekerheid, foutmarges, bekende beperkingen en relevante prestatieniveaus",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "N07",
+  "column": "EU AI Act",
+  "text": "Art. 9, 27 en 72 — feedback van gebruikers en getroffen personen verwerken in beoordeling ",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "N08",
+  "column": "EU AI Act",
+  "text": "Art. 9 en 27 — risico’s prioriteren tegenover baten, alternatieven en grondrechtenimpact",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "N09",
+  "column": "EU AI Act",
+  "text": "Art. 9, 20 en 17 — restrisico behandelen, corrigerende acties uitvoeren en effectiviteit v",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ },
+ {
+  "actionId": "N10",
+  "column": "EU AI Act",
+  "text": "Art. 25, 26 en 72 — risico’s van derden, waardeketen en continuïteit monitoren",
+  "reason": "action cites EU articles but is not listed under any EU cluster of the gap table (cluster link missing or article-level link only)"
+ }
+]
